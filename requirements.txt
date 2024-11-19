@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly.express
-requests
-StringIO
-datetime
