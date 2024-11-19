@@ -10,7 +10,7 @@ item_column = "item"
 time_column = "startdate"
 value_column = "value"
 
-# GitHub repository raw URL (replace `your-username`, `your-repo`, and `branch`)
+# GitHub repository raw URL
 GITHUB_RAW_BASE_URL = "https://raw.githubusercontent.com/Manny735/Project-1/refs/heads/main/path-to-datasets/"
 
 # Preprocessing function to clean value column
@@ -55,7 +55,7 @@ def fetch_csv_from_github(file_name):
 st.title("Project 1: Food Security Analysis Dashboard")
 st.write("Explore food security indicators across countries.")
 
-# List of available datasets (hardcoded or fetched dynamically)
+# List of available datasets
 dataset_files = [
     "suite-of-food-security-indicators_afg.csv",
     "suite-of-food-security-indicators_aze.csv",
@@ -95,7 +95,7 @@ analysis_type = st.sidebar.selectbox(
     ["Select", "Time Series Analysis", "Comparison Analysis", "Country Overview", "Global Analysis"]
 )
 
-# Dataset Selection (only for specific sections)
+# Dataset Selection
 if analysis_type in ["Time Series Analysis", "Country Overview"]:
     selected_file = st.sidebar.selectbox(
         "Select a dataset",
@@ -258,7 +258,7 @@ elif analysis_type == "Global Analysis":
     selected_date = st.sidebar.selectbox("Select a date for Global Analysis", options=valid_dates)
     selected_item = st.sidebar.selectbox("Select an item for Global Analysis", options=sorted(unique_items))
 
-    # Main content area: Display data for the selected item and date
+    # Main content area
     if selected_date and selected_item:
         st.subheader(f"Global Analysis for {selected_item} on {selected_date}")
         for file in dataset_files:
