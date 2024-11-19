@@ -175,12 +175,26 @@ elif analysis_type == "Comparison Analysis":
                             st.subheader(f"Comparison of {selected_item} on {comparison_date}")
                             col1, col2 = st.columns(2)
                             with col1:
-                                st.markdown(f"**{dataset_1.replace('.csv', '').capitalize()}:** {value_1:,.2f}")
+                                st.markdown(
+                                    f"<div style='font-size: 1.5em; font-weight: bold; margin-top: 1em;'>{dataset_1.replace('.csv', '')}</div>",
+                                    unsafe_allow_html=True
+                                )
+                                st.markdown(
+                                    f"<div style='font-size: 2.5em; font-weight: bold; color: #007bff;'>{value_1:,.2f}</div>",
+                                    unsafe_allow_html=True
+                                )
                             with col2:
-                                st.markdown(f"**{dataset_2.replace('.csv', '').capitalize()}:** {value_2:,.2f}")
+                                st.markdown(
+                                    f"<div style='font-size: 1.5em; font-weight: bold; margin-top: 1em;'>{dataset_2.replace('.csv', '')}</div>",
+                                    unsafe_allow_html=True
+                                )
+                                st.markdown(
+                                    f"<div style='font-size: 2.5em; font-weight: bold; color: #007bff;'>{value_2:,.2f}</div>",
+                                    unsafe_allow_html=True
+                                )
                         except ValueError:
                             st.error("Comparison values are not numeric.")
-
+                            
 # Country Overview Section
 elif analysis_type == "Country Overview":
     if data is not None and time_column in data.columns and value_column in data.columns:
