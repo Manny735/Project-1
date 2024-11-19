@@ -52,7 +52,7 @@ def fetch_csv_from_github(file_name):
         return None
 
 # App Title
-st.title("Food Security Dashboard")
+st.title("Food Security Analysis Dashboard")
 st.write("Explore food security indicators across countries.")
 
 # List of available datasets (hardcoded or fetched dynamically)
