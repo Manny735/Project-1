@@ -1,0 +1,1101 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,113,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,115,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,117,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,118,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,120,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,122,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,124,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,127,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,130,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,130,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,129,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,127,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,127,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,125,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,124,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,124,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,126,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,129,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,131,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,134,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,135,E,
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,135,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2451,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2504,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2595,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2611,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2627,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2697,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2770,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2750,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2893,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2972,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2931,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2903,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2894,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2871,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2862,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2797,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2775,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2868,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2951,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,3011,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,3042,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,3114,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3103,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3106,E,Imputed value
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,2518,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,2571,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,2611,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,2646,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,2699,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,2739,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,2805,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,2874,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,2932,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,2935,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,2909,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,2889,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,2875,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,2843,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,2811,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,2814,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,2866,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,2944,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,3002,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,3056,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,3087,E,
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3108,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,68,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,67,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,66,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,66,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,65,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,64,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,64,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,64,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,64,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,64,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,65,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,65,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,65,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,66,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,66,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,66,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,67,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,67,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,67,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,67,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,67,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,53.1,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,54.3,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,56,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,57.3,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,59.3,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,59.8,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,61.4,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,62.5,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,63.9,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,64.9,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,65.5,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,65.8,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,64.8,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,63.5,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,62,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,61.6,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,62.5,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,64,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,65.2,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,67.1,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,68.2,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,15.1,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,14.5,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,15.1,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,15.4,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,16.3,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,16.4,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,16.6,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,16,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,15.2,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,15.6,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,16,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,16.7,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,16.3,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,16.2,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,15.7,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,15.9,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,16.2,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,16.4,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,16.7,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,17.8,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,18.5,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,0.4,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,0.4,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,0.4,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,0.4,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,0.4,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,3322.5,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,3364.8,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,3420.8,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,3502.4,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,3601.1,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,3713.4,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,3848.2,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,3912.2,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,4161.7,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,4254.1,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,4478.2,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,4984.2,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,5315,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,5565.4,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,5588.2,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,5573.4,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,5628.2,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,5951.2,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,6187.4,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,6453.9,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,6354.4,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,6544.2,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,6616.1,X,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,14.9,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,13.5,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,12.6,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,12.1,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,11.1,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,10.4,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,9.2,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,8.1,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,6.9,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,7,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,7.4,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,7.9,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,8.2,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,8.9,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,9.7,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,9.8,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,9,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,7.8,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,6.9,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,6,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,5.9,E,
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,6.2,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,3,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,2.8,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,2.7,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,2.6,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,2.5,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,2.4,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,2.2,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,2,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,1.7,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,1.8,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,1.9,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,2.1,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,2.2,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,2.5,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,2.8,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,2.9,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,2.7,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,2.4,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,2.2,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,1.9,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,1.9,E,
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,2.1,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,5.1,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,6.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,6.2,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,6,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,5.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,8.2,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,4.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5.3,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,6.2,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,5.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.3,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,4.9,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6.3,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7.6,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.8,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,7.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.9,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.4,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,5.9,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,6.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,6.2,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,6,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,5.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,6.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,7.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,4.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5.2,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,6.2,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,5.4,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.2,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,4.9,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6.1,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7.3,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.7,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,7.6,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.9,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.3,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.5,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.6,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,5.1,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,6.3,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,6.1,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,5.7,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,7.3,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,8.6,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,4.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5.3,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,6.3,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,5.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,5,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6.6,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.8,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,7.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,7,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.8,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.4,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.9,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,9.2,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,38.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,40.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,43.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,39.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,38.2,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,36.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,38.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,42.4,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,36.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,38.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,41.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,37.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,36.3,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,34.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,37.1,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,40.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,40.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,42.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,45.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,41.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,40.2,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,38.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,40.5,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,43.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,36.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,38.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,41.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,37.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,36.4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,34.8,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,37.3,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,41.3,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,34.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,36.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,39.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,35.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,34.4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,32.8,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,35.6,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,39.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,38.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,40.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,43.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,39.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,38.4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,36.8,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,39,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,42.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,40.1,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,42.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,45.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,41.4,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,40,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,38.3,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,40.4,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,43.5,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,38.2,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,40.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,44,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,39.4,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,38.1,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,36.4,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,38.7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,42.1,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,42.1,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,44.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,47.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,43.3,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,42,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,40.3,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,42.1,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,45,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,1.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,1.8,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,2.1,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,1.9,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,1.9,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,1.8,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,2.3,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,2.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.9,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.7,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2.1,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2.5,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.7,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.3,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.1,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.1,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,2,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2.5,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,3,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,0.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.9,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.7,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,11.1,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,12,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,13.2,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,12.2,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,12,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,11.8,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,12.7,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,14.2,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,10.5,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,11.5,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,12.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,11.6,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,11.4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,11.1,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,12.2,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,13.7,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,11.6,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,12.6,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,13.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,12.8,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,12.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,12.4,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,13.3,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,14.7,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,3.2,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,3.5,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,3.8,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,3.5,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,3.5,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,3.5,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,3.8,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,4.3,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,3,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,3.3,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,3.4,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,3.3,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,3.3,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,3.6,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,4.2,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,3.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,4,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,4,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,4.5,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,3.6,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,3.9,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,4.3,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,4,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,4,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,3.9,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,4.2,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,4.6,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,3.4,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,4.1,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,3.8,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,3.8,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,3.7,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,4,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,4.5,A,Official estimate integrated with FAO data
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,3.8,A,Official estimate integrated with FAO data
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,4.1,A,Official estimate integrated with FAO data
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,4.5,A,Official estimate integrated with FAO data
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,4.2,A,Official estimate integrated with FAO data
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,4.2,A,Official estimate integrated with FAO data
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,4.1,A,Official estimate integrated with FAO data
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,4.4,A,Official estimate integrated with FAO data
+GHA,2021-01-01,2023-12-31,81,'288,Ghana,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,4.8,A,Official estimate integrated with FAO data
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,26.1,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,32.2,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,37.8,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,41.6,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,38.6,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,34.5,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,32.1,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,29.7,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,27.8,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,30.3,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,32.2,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,34.9,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,34.2,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,36.5,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,37.5,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,40,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,39.4,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,39,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,37.6,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,38.4,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,35.6,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.1,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.1,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.1,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.1,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.1,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.2,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.2,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.2,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.2,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.2,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.2,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.2,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.2,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.5,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.7,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,1,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,1,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,1,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,1,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,1,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,1,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,19,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,20,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,27,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,32,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,32,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,27,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,24,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,21,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,18,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,15,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,13,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,12,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,13,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,16,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,16,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,15,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,13,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,12,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,14,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,17,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,19,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,-0.36,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,-0.16,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.03,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,0.04,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,0.17,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,0.01,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,-0.07,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,-0.03,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,0.03,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,0.03,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,0.17,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,0.13,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,0.06,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,-0.11,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,-0.04,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,-0.14,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,0.08,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,-0.04,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,0.12,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,0.17,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,0.07,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,-0.07,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,62,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,45,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,24,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,24,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,25,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,24,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,23,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,32,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,32,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,61,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,78,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,69,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,66,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,52,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,68,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,56,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,69,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,79,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,61,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,57,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,71,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,77,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,58,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,33,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,12,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,12,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,13,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,14,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,16,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,17,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,19,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,20,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,22,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,23,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,25,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,26,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,28,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,30,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,32,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,33,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,35,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,37,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,39,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,40,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,42,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,44,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,44,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,65,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,66,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,67,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,68,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,69,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,70,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,71,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,72,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,74,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,74,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,76,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,77,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,78,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,79,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,80,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,81,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,82,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,83,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,84,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,85,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,86,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,87,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,88,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,4,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,4,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,4,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,5,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,5,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,6,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,6,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,7,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,8,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,8,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,9,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,9,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,10,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,11,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,11,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,12,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,12,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,13,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,14,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,14,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,15,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,15,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,16,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,6,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,6,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,7,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,8,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,9,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,10,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,11,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,12,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,13,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,14,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,15,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,16,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,17,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,18,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,19,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,20,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,22,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,23,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,24,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,25,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,26,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,27,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,29,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,8.4,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,6,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,8.7,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,6.2,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,4.7,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,6.8,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,5.8,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,0.3,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,0.2,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,0.3,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,0.2,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,0.2,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,0.3,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,0.3,X,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,32.6,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,32.3,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,31.9,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,31.5,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,31,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,30.4,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,29.7,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,28.8,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,27.6,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,26.3,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,24.9,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,23.4,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,22,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,20.7,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,19.5,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,18.5,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,17.6,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,16.8,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,15.9,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,15,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,14.2,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,13.4,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,12.7,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,1,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,1,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,1,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,1,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,1,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,1,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,1,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,1,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,1,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,1,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,0.9,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,0.9,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,0.9,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,0.8,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,0.8,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,0.8,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,0.8,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,0.7,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,0.7,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,0.6,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,0.6,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,0.6,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,0.6,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,3.6,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,4.2,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,4.6,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,4.8,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,4.6,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,4.2,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,3.6,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,3.1,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,2.7,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,2.5,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,2.4,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,2.3,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,2.3,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,2.3,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,2.2,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,2.2,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,2.2,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,2.1,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,2.1,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,2,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,2,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,1.9,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,1.9,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,0.1,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,0.1,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,0.1,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,0.2,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,0.2,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,0.1,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,0.1,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,0.1,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.1,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.1,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.1,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.1,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.1,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.1,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.1,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.1,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.1,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.1,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.1,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.1,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.1,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,6.1,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,6.5,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,6.9,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,7.3,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,7.8,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,8.2,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,8.5,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,8.9,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,9.2,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,9.5,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,9.8,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,10,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,10.2,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,10.5,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,10.7,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,10.9,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,11.2,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,11.4,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,11.7,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,12,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,12.3,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,12.6,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,12.9,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,0.6,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,0.7,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,0.7,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,0.8,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,0.9,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,1,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,1.1,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,1.1,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,1.2,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,1.3,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,1.4,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,1.4,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,1.5,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,1.6,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,1.7,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,1.7,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,1.8,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,1.9,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,2,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,2.1,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,2.2,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,2.3,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,2.5,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,49,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,49.1,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,49.2,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,49.4,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,49.5,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,49.3,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,49.1,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,48.7,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,48.1,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,47.3,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,46.3,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,45.2,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,44.2,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,43.1,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,41.9,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,40.7,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,39.2,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,37.8,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,36.6,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,35.4,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,2.3,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,2.3,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,2.4,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,2.5,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,2.6,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,2.6,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,2.7,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,2.8,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,2.8,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,2.9,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,2.9,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,2.9,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,2.9,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,2.9,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,2.8,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,2.8,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,2.8,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,2.7,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,2.7,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,2.7,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,53,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,54.9,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,62.1,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,45.7,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,52.1,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,42.9,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,53.1,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,15.8,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,15.8,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,15.7,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,15.7,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,15.7,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,15.6,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,15.5,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,15.5,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,15.3,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,15.2,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,15.1,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,15,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,14.9,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,14.8,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,14.7,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,14.7,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,14.6,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,14.6,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,14.5,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,14.5,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,14.4,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,0.1,X,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,0.1,X,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,0.1,X,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,0.1,X,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,0.1,X,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,0.1,X,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,0.1,X,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,0.1,X,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,0.1,X,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,0.1,X,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,0.1,X,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,0.1,X,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,0.1,X,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,0.1,X,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,0.1,X,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,0.1,X,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,0.1,X,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,0.1,X,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,0.1,X,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,0.1,X,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,0.1,X,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1722,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1725,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1728,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1731,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1735,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1738,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1741,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1744,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1747,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1752,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1754,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1756,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1758,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1761,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1763,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1765,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1766,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1769,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1772,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1775,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1778,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1781,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1785,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1788,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2222,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2226,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2230,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2234,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2240,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2244,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2247,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2251,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2254,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2260,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2262,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2265,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2267,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2270,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2273,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2275,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2277,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2281,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2285,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2289,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2293,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2298,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2302,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2307,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.28,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.28,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.28,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.28,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.29,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.29,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.29,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.29,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.29,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.29,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.29,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.29,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.29,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.29,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.29,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.29,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.29,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.29,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.3,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.3,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.3,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.29,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.31,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.32,E,
+GHA,2000-01-01,2000-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,5.21,E,
+GHA,2001-01-01,2001-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,5.19,E,
+GHA,2002-01-01,2002-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,5.13,E,
+GHA,2003-01-01,2003-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,5.07,E,
+GHA,2004-01-01,2004-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,5.14,E,
+GHA,2005-01-01,2005-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,5.14,E,
+GHA,2006-01-01,2006-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,5.1,E,
+GHA,2007-01-01,2007-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,5.35,E,
+GHA,2008-01-01,2008-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,5.14,E,
+GHA,2009-01-01,2009-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,5.14,E,
+GHA,2010-01-01,2010-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,4.89,E,
+GHA,2011-01-01,2011-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,5.06,E,
+GHA,2012-01-01,2012-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,4.98,E,
+GHA,2013-01-01,2013-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,5.07,E,
+GHA,2014-01-01,2014-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,5.09,E,
+GHA,2015-01-01,2015-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,5.14,E,
+GHA,2016-01-01,2016-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,5.16,E,
+GHA,2017-01-01,2017-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,5.16,E,
+GHA,2018-01-01,2018-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,5.24,E,
+GHA,2019-01-01,2019-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,5.03,E,
+GHA,2020-01-01,2020-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,4.97,E,
+GHA,2021-01-01,2021-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,4.87,E,
+GHA,2022-01-01,2022-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,4.87,E,
+GHA,2023-01-01,2023-12-31,81,'288,Ghana,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,4.87,E,
+GHA,2000-01-01,2002-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,40.8,E,
+GHA,2001-01-01,2003-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,41.6,E,
+GHA,2002-01-01,2004-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,42.9,E,
+GHA,2003-01-01,2005-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,42.8,E,
+GHA,2004-01-01,2006-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,44.8,E,
+GHA,2005-01-01,2007-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,45.4,E,
+GHA,2006-01-01,2008-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,47.2,E,
+GHA,2007-01-01,2009-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,47.2,E,
+GHA,2008-01-01,2010-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,49.1,E,
+GHA,2009-01-01,2011-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,47.5,E,
+GHA,2010-01-01,2012-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,46.7,E,
+GHA,2011-01-01,2013-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,44.6,E,
+GHA,2012-01-01,2014-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,43.5,E,
+GHA,2013-01-01,2015-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,41.9,E,
+GHA,2014-01-01,2016-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,40.8,E,
+GHA,2015-01-01,2017-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,40.4,E,
+GHA,2016-01-01,2018-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,40.9,E,
+GHA,2017-01-01,2019-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,41.6,E,
+GHA,2018-01-01,2020-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,42.9,E,
+GHA,2019-01-01,2021-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,44.9,E,
+GHA,2020-01-01,2022-12-31,81,'288,Ghana,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,47.1,E,

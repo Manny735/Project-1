@@ -1,0 +1,1108 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,135,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,135,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,134,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,133,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,132,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,132,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,131,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,132,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,133,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,134,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,134,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,133,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,133,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,132,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,133,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,134,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,136,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,138,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,139,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,141,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,140,E,
+POL,2021-01-01,2023-12-31,173,'616,Poland,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,137,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,3401,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,3402,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,3411,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,3404,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,3365,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,3356,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,3339,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,3350,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,3331,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,3404,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,3370,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,3397,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,3377,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,3324,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,3345,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,3305,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,3381,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,3428,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,3464,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,3477,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,3524,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,3554,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3436,E,Imputed value
+POL,2023-01-01,2023-12-31,173,'616,Poland,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3340,E,Imputed value
+POL,2000-01-01,2002-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,3405,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,3406,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,3393,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,3375,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,3353,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,3348,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,3340,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,3362,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,3368,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,3390,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,3381,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,3366,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,3349,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,3325,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,3344,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,3371,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,3424,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,3456,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,3488,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,3518,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,3503,E,
+POL,2021-01-01,2023-12-31,173,'616,Poland,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3440,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,42,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,42,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,42,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,42,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,42,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,42,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,42,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,41,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,41,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,40,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,39,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,39,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,39,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,38,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,38,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,37,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,37,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,37,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,36,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,35,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,34,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,100,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,100.4,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,100.2,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,99.6,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,98.8,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,99,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,98.8,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,99.4,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,103,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,106.9,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,109.4,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,108.2,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,107.6,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,107.7,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,109.3,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,110.8,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,112.2,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,113.4,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,114.8,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,116.5,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,116.8,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,50.1,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,50.6,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,50.7,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,50.1,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,49.6,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,49.8,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,49.9,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,50.4,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,53.8,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,57.4,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,60,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,59.2,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,58.9,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,59.8,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,61.7,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,63.2,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,64.4,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,65.8,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,68.1,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,70.6,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,71.1,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,7.2,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,6.4,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,6.5,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,6.4,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,6.3,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,6.3,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,6.2,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,6.2,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,6.3,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2009,2009,km,6.3,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2010,2010,km,6.3,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,6.3,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2012,2012,km,6.3,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2013,2013,km,6.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2014,2014,km,6.1,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2015,2015,km,5.9,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2016,2016,km,5.9,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2017,2017,km,5.9,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2018,2018,km,5.9,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2019,2019,km,5.9,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2020,2020,km,6,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2021,2021,km,6,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,18732.8,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,18973.8,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,19369.1,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,20060.2,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,21072.1,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,21820.6,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,23173.2,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,24823,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,25862.1,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,26576.5,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,27434.7,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,28802.5,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,29247.6,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,29516,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,30671.4,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,32037.2,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,32997.6,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,34689.4,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,36751.8,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,38396.6,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,37686.9,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,40462.7,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,43661.5,X,
+POL,2000-01-01,2002-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,<2.5,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,<2.5,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,<2.5,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,<2.5,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,<2.5,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,<2.5,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,<2.5,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,<2.5,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,<2.5,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,<2.5,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,<2.5,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,<2.5,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,<2.5,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,<2.5,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,<2.5,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,<2.5,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,<2.5,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,<2.5,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,<2.5,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,<2.5,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,<2.5,E,
+POL,2021-01-01,2023-12-31,173,'616,Poland,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,<2.5,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,,Q,
+POL,2001-01-01,2003-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,,Q,
+POL,2002-01-01,2004-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,,Q,
+POL,2003-01-01,2005-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,,Q,
+POL,2004-01-01,2006-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,,Q,
+POL,2005-01-01,2007-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,,Q,
+POL,2006-01-01,2008-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,,Q,
+POL,2007-01-01,2009-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,,Q,
+POL,2008-01-01,2010-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,,Q,
+POL,2009-01-01,2011-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,,Q,
+POL,2010-01-01,2012-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,,Q,
+POL,2011-01-01,2013-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,,Q,
+POL,2012-01-01,2014-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,,Q,
+POL,2013-01-01,2015-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,,Q,
+POL,2014-01-01,2016-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,,Q,
+POL,2015-01-01,2017-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,,Q,
+POL,2016-01-01,2018-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,,Q,
+POL,2017-01-01,2019-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,,Q,
+POL,2020-01-01,2022-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,,Q,
+POL,2021-01-01,2023-12-31,173,'616,Poland,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,,Q,
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,1.8,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,1.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,0.7,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,<0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,<0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,0.9,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,0.9,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,1.2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.7,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,<0.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,<0.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.5,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.7,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,0.7,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,0.7,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.4,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,1.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.4,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.7,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,1,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,0.7,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,0.8,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,0.9,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,0.8,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,1.1,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.5,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,<0.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,<0.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.5,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,0.9,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,0.8,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.3,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,1.3,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.3,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.9,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,1.4,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,0.8,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,<0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,<0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,0.9,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,1.3,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.8,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,<0.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.5,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.9,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,0.6,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,0.6,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,1.6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.4,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,8.9,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,6.3,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,5.3,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,4.3,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,5.8,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,7.4,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,7.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,5.4,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,7.2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,4.8,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,3.9,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,3.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,4.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,5.9,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,4.1,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,10.5,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,7.7,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,6.6,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,5.4,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,7.2,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,9,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,9.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,6.8,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,7.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,4.9,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,4,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,3.3,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,4.3,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,5.7,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,5.9,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,4.4,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,5.8,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,3.6,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,2.9,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,2.3,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,3.2,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,4.2,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,4.4,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,3,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,9,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,5.2,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,4.3,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,5.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,7.2,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,5.8,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,10.3,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,7.6,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,6.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,5.2,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,7.3,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,9.1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,9.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,6.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,8.6,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,6,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,3.8,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.7,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,7.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,7.6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,5.2,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,12,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,9.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,8,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,9,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,10.7,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,10.7,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,7.8,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,0.7,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,0.5,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,0.3,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,0.4,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,0.4,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,0.3,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.3,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.2,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.2,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.2,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.2,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.9,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.7,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.4,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,0.3,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,<0.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.1,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.2,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.1,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.2,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.2,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.2,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.3,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.2,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.2,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.2,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.2,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.1,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.3,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.2,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,,Q,
+POL,2018-01-01,2020-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,,Q,
+POL,2019-01-01,2021-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.3,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.3,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.3,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,3.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,2.4,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,2,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,1.6,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,2.2,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,2.9,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,2.9,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,2.2,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,2.8,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.9,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.2,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.7,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,2.3,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2.3,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.6,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,4.1,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,3,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.5,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.8,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.5,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,3.5,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.7,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,1.2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.8,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.5,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,0.7,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.9,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.9,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.7,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.9,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.6,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.4,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.4,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.6,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.7,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.4,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.8,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.7,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.9,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.1,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.2,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.9,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,1.8,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,1.3,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,1.1,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.9,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,1.2,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,1.6,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,1.6,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,1.1,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.5,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.8,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.7,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.3,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.3,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.9,A,FAO data
+POL,2014-01-01,2016-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2,A,FAO data
+POL,2015-01-01,2017-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1.6,A,FAO data
+POL,2016-01-01,2018-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.4,A,FAO data
+POL,2017-01-01,2019-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.1,A,FAO data
+POL,2018-01-01,2020-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.5,A,FAO data
+POL,2019-01-01,2021-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.8,A,FAO data
+POL,2020-01-01,2022-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.8,A,FAO data
+POL,2021-01-01,2023-12-31,173,'616,Poland,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1.4,A,FAO data
+POL,2000-01-01,2002-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,4.8,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,2.4,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,1.5,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,0.4,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,0.2,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,1.8,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,5,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,2.7,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,1.3,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,0.6,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,2.5,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,-1.4,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,-7.2,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,-14.1,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,-16.7,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,-15.5,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,-11.5,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,-9,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,-14.3,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,-19.9,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,-22.5,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.3,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.3,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.3,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.4,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.4,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.4,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.4,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.3,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.3,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.3,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.3,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.3,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.3,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.5,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.7,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,0.9,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,1.2,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,1.4,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,1.7,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,1.9,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,2,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,6,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,5,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,5,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,5,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,5,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,5,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,6,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,6,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,6,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,6,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,6,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,6,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,6,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,6,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,6,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,6,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,6,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,6,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,6,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,6,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,6,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,0.31,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,0.74,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.58,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,0.15,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,0.36,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,0.35,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,0.68,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,0.91,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,0.94,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,1.02,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,1.07,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,1.05,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,0.97,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,0.84,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,0.86,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,0.5,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,0.51,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,0.48,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,0.55,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,0.49,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,0.49,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,0.5,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,21,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,29,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,33,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,17,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,14,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,19,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,27,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,33,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,26,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,14,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,28,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,28,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,30,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,28,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,34,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,32,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,43,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,33,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,42,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,54,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,59,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,40,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,33,E,
+POL,2023-01-01,2023-12-31,173,'616,Poland,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,51,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,92,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,92,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,93,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,93,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,94,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,93,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,93,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,93,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,92,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,92,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,92,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,91,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,91,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,91,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,90,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,90,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,89,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,89,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,99,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,99,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,99,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,99,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,99,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,98,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,98,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,97,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,96,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,96,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,95,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,94,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,93,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,93,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,92,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,91,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,90,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,90,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,86,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,87,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,87,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,88,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,89,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,89,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,90,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,91,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,91,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,92,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,93,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,94,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,94,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,95,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,96,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,96,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,97,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,98,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,98,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,98,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,98,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,98,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,98,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,88,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,88,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,89,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,90,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,90,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,91,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,92,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,92,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,93,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,94,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,94,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,95,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,96,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,96,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,97,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,98,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,98,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,99,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,99,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,99,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,99,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,99,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,99,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,0.9,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+POL,2012-01-01,2012-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,<0.1,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+POL,2012-01-01,2012-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+POL,2023-01-01,2023-12-31,173,'616,Poland,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,2.9,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,2.8,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,2.7,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,2.6,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,2.5,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,2.4,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,2.4,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,2.3,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,2.3,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,2.2,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,2.2,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,2.1,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,2.1,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,2.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,2.1,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,2.1,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,2.1,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,2.2,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,2.2,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,2.2,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,2.3,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,2.3,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,2.3,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,0.1,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,0.1,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,0.1,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,<0.1,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,<0.1,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,<0.1,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,<0.1,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,<0.1,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,<0.1,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,<0.1,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,<0.1,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,<0.1,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,<0.1,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,<0.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,<0.1,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,<0.1,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,<0.1,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,<0.1,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,<0.1,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,<0.1,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,<0.1,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,<0.1,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,<0.1,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,4.7,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,4.8,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,4.8,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,4.9,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,5,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,5,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,5.1,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,5.2,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,5.3,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,5.4,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,5.5,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,5.6,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,5.6,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,5.7,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,5.8,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,5.9,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,5.9,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,5.9,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,5.9,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,6,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,6,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,6,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,6,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,0.1,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,0.1,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,0.1,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,0.1,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,0.1,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,0.1,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,0.1,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,0.1,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.1,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.1,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.1,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.1,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.1,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.1,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.1,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.1,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.1,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.1,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.1,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.1,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,16.6,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,17.1,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,17.5,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,18,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,18.4,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,18.9,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,19.4,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,19.8,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,20.3,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,20.8,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,21.3,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,21.7,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,22.2,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,22.7,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,23.2,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,23.7,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,24.2,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,24.7,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,25.3,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,25.8,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,26.3,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,26.9,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,27.5,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,4.8,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,5,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,5.2,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,5.4,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,5.6,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,5.8,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,5.9,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,6.1,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,6.3,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,6.5,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,6.6,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,6.8,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,7,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,7.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,7.3,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,7.5,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,7.6,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,7.8,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,8,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,8.1,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,8.3,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,8.4,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,9,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,6,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,6,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,6,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,5.9,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,5.9,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,5.9,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,5.9,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,5.8,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,5.8,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,5.8,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,5.8,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,5.8,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,5.8,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,5.8,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,5.8,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,5.8,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,5.7,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,5.7,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,5.7,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,5.6,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,5.6,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,<0.1,X,
+POL,2001-01-01,2001-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,<0.1,X,
+POL,2002-01-01,2002-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,<0.1,X,
+POL,2003-01-01,2003-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,<0.1,X,
+POL,2004-01-01,2004-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,<0.1,X,
+POL,2005-01-01,2005-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,<0.1,X,
+POL,2006-01-01,2006-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,<0.1,X,
+POL,2007-01-01,2007-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,<0.1,X,
+POL,2008-01-01,2008-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,<0.1,X,
+POL,2009-01-01,2009-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,<0.1,X,
+POL,2010-01-01,2010-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,<0.1,X,
+POL,2011-01-01,2011-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,<0.1,X,
+POL,2012-01-01,2012-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,<0.1,X,
+POL,2013-01-01,2013-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,<0.1,X,
+POL,2014-01-01,2014-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,<0.1,X,
+POL,2015-01-01,2015-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,<0.1,X,
+POL,2016-01-01,2016-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,<0.1,X,
+POL,2017-01-01,2017-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,<0.1,X,
+POL,2018-01-01,2018-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,<0.1,X,
+POL,2019-01-01,2019-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,<0.1,X,
+POL,2020-01-01,2020-12-31,173,'616,Poland,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,<0.1,X,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1938,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1942,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1946,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1950,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1953,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1955,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1956,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1956,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1954,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1951,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1949,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1946,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1945,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1943,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1942,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1941,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1939,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1936,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1934,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1932,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1931,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1931,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1935,E,
+POL,2023-01-01,2023-12-31,173,'616,Poland,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1937,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2517,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2524,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2529,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2535,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2539,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2542,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2543,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2542,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2539,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2535,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2532,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2528,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2526,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2523,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2520,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2518,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2515,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2511,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2508,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2506,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2505,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2505,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2510,E,
+POL,2023-01-01,2023-12-31,173,'616,Poland,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2514,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.21,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.21,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.21,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.21,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.21,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.21,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.21,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.21,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.21,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.21,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.21,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.21,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.21,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.21,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.21,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.21,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.21,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.21,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.2,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.2,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.21,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.21,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.21,E,
+POL,2023-01-01,2023-12-31,173,'616,Poland,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.21,E,
+POL,2000-01-01,2000-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,2.18,E,
+POL,2001-01-01,2001-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,2.18,E,
+POL,2002-01-01,2002-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,2.12,E,
+POL,2003-01-01,2003-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,2.15,E,
+POL,2004-01-01,2004-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,2.17,E,
+POL,2005-01-01,2005-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,2.18,E,
+POL,2006-01-01,2006-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,2.21,E,
+POL,2007-01-01,2007-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,2.18,E,
+POL,2008-01-01,2008-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,2.18,E,
+POL,2009-01-01,2009-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,2.18,E,
+POL,2010-01-01,2010-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,2.14,E,
+POL,2011-01-01,2011-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,2.18,E,
+POL,2012-01-01,2012-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,2.12,E,
+POL,2013-01-01,2013-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,2.09,E,
+POL,2014-01-01,2014-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,2.08,E,
+POL,2015-01-01,2015-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,2.11,E,
+POL,2016-01-01,2016-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,2.12,E,
+POL,2017-01-01,2017-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,2.11,E,
+POL,2018-01-01,2018-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,2.14,E,
+POL,2019-01-01,2019-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,2.05,E,
+POL,2020-01-01,2020-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,2.09,E,
+POL,2021-01-01,2021-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,2.04,E,
+POL,2022-01-01,2022-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,2.04,E,
+POL,2023-01-01,2023-12-31,173,'616,Poland,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,2.04,E,
+POL,2000-01-01,2002-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,114.6,E,
+POL,2001-01-01,2003-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,115,E,
+POL,2002-01-01,2004-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,114.7,E,
+POL,2003-01-01,2005-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,113.7,E,
+POL,2004-01-01,2006-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,113,E,
+POL,2005-01-01,2007-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,112.5,E,
+POL,2006-01-01,2008-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,112.1,E,
+POL,2007-01-01,2009-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,113.5,E,
+POL,2008-01-01,2010-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,115.6,E,
+POL,2009-01-01,2011-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,118.5,E,
+POL,2010-01-01,2012-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,119.8,E,
+POL,2011-01-01,2013-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,119.2,E,
+POL,2012-01-01,2014-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,117.6,E,
+POL,2013-01-01,2015-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,117.1,E,
+POL,2014-01-01,2016-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,118.7,E,
+POL,2015-01-01,2017-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,120.3,E,
+POL,2016-01-01,2018-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,121.9,E,
+POL,2017-01-01,2019-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,122.7,E,
+POL,2018-01-01,2020-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,124.8,E,
+POL,2019-01-01,2021-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,127.6,E,
+POL,2020-01-01,2022-12-31,173,'616,Poland,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,131.6,E,

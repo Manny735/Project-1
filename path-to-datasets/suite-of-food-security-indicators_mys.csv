@@ -1,0 +1,1113 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,124,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,123,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,122,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,122,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,122,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,121,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,121,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,121,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,120,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,121,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,121,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,121,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,120,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,120,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,120,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,122,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,122,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,123,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,124,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,124,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,125,E,
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,125,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2869,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2845,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2798,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2816,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2848,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2809,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2822,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2848,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2794,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2845,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2827,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2864,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2888,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2849,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2841,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2892,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2888,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2928,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2940,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2949,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2999,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2982,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3006,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3018,E,Imputed value
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,2837,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,2819,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,2821,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,2824,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,2826,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,2827,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,2821,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,2829,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,2822,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,2845,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,2860,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,2867,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,2859,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,2861,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,2874,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,2903,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,2919,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,2939,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,2963,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,2977,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,2996,E,
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3002,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,45,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,45,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,46,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,47,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,47,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,47,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,47,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,46,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,45,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,44,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,43,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,43,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,42,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,40,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,39,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,39,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,39,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,39,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,40,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,39,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,39,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,75.8,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,75.6,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,76.6,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,77.5,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,78.6,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,79.2,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,78.2,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,78,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,81.5,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,86.1,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,90.5,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,91.1,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,91.8,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,92.1,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,92.5,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,92.8,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,92.7,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,91.8,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,91.4,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,91.2,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,92.9,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,42.2,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,42,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,42.1,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,42,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,42.3,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,42.6,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,42.1,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,42,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,44.8,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,47.8,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,50.8,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,51.8,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,53.4,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,54.9,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,56.1,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,56.3,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,55.8,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,54.2,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,53.5,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,52.8,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,53.4,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,0.5,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,0.5,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,0.5,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,0.5,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,0.5,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,0.5,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,0.5,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,0.5,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,0.5,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2009,2009,km,0.5,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2010,2010,km,0.7,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,0.7,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2017,2017,km,0.8,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2018,2018,km,0.5,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2019,2019,km,0.5,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2020,2020,km,0.5,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2021,2021,km,0.5,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,18556.8,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,18179.5,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,18683.5,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,19288,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,20113.6,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,20703.7,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,21376.9,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,22234.2,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,22826.8,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,22040.8,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,23264.6,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,24104.8,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,25016,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,25777.8,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,26905,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,27854.1,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,28671.3,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,29911.5,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,30950.3,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,31917.4,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,29815.9,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,30456.1,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,32735.4,X,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,2.5,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,2.8,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,2.9,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,3,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,3.2,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,3.3,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,3.5,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,3.6,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,3.7,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,3.5,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,3.4,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,3.4,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,3.6,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,3.7,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,3.5,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,3,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,2.7,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,<2.5,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,<2.5,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,<2.5,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,<2.5,E,
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,<2.5,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,0.6,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,0.7,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,0.7,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,0.8,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,0.8,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,0.9,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,1,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,1,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,1.1,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,1,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,1,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,1,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,1.1,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,1.1,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,1.1,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,0.9,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,0.9,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,,Q,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,,Q,
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,,Q,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,7.8,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,6.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,6.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,6.7,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,6.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,6.3,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,5.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,6.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5.4,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,5.4,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,5.4,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.4,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,5.1,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,4.8,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,4.6,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,9.2,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,8,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,8,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,8,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,7.9,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,7.6,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.2,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,6.9,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,9.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,7.3,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,7.3,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,7.3,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,7.7,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,7.7,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,7.5,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,6.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,7.8,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,6,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,6,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,6,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,6.5,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,6.4,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6.1,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,5.5,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,10.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,8.5,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,8.5,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,8.5,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,9,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,8.9,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,8.8,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.1,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,6.2,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,6.2,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,6.2,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,6.2,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,5.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,5,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,4.5,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,4.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,5,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,4.9,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,4.9,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,4.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,4.3,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,3.7,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,3.5,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,3.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,7.5,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,7.5,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,7.5,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,7.5,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.8,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.2,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,5.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,5.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,17.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,15.1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,15.1,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,15.1,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,14.9,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,15.4,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,16,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,16.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,15.2,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,12.9,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,12.9,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,12.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,12.7,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,13.2,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,13.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,14.2,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,19.7,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,17.2,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,17.2,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,17.2,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,17,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,17.7,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,18.3,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,19.1,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,19.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,16.1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,16.1,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,16.1,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,16.3,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,17.5,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,18.3,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,19.1,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,17.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,13.8,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,13.8,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,13.8,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,14.1,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,15.1,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,15.7,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,16.3,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,22.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,18.3,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,18.3,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,18.3,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,18.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,19.9,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,20.9,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,21.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,15,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,14,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,14,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,14,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,13.4,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,13.4,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,13.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,14.3,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,12.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,12,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,12,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,12,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,11.3,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,11.2,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,11.5,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,12.1,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,17.1,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,16.1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,16.1,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,16.1,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,15.5,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,15.5,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,15.7,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,16.5,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,2.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,2.1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,2.2,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,2.2,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,2.2,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,2.1,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,2,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,2,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,2,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.8,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.8,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.7,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.6,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2.5,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.6,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.6,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,2.5,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2.4,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.4,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,1.1,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.9,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.9,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,1,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,1,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,1,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.9,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.8,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.8,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.8,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.8,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.3,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.1,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.1,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.2,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.2,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.2,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1.1,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.7,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.7,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,0.7,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.6,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.6,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.6,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.6,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.6,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.6,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.5,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.4,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.9,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.9,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.8,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.8,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.7,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,5.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,4.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,4.8,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,4.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,4.9,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,5.1,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,5.4,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,5.7,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,4.7,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,4.1,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,4.1,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,4.2,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,4.2,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,4.4,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,4.6,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,4.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,6.1,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,5.4,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,5.5,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,5.6,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,5.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,5.9,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,6.2,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,6.5,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,2.4,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,2,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,2,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,2,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,2.1,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,2.3,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,2.4,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,2.5,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,2.1,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.7,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.7,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.8,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,2,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2.1,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2.2,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.7,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2.2,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.3,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.3,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.4,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,2.6,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2.8,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.9,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,1.7,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,1.6,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,1.7,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,1.7,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,1.6,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,1.7,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,1.7,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,1.8,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.5,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.4,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.4,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.4,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.4,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.4,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.5,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.6,A,FAO data
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.9,A,FAO data
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1.9,A,FAO data
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.9,A,FAO data
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.9,A,FAO data
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.9,A,FAO data
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.9,A,FAO data
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2,A,FAO data
+MYS,2021-01-01,2023-12-31,131,'458,Malaysia,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.1,A,FAO data
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,80.2,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,77.7,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,85.1,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,82.6,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,86.3,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,81.1,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,77.2,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,72.8,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,71.1,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,72.4,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,74.7,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,73.8,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,78.8,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,75.8,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,75.5,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,72.2,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,74.8,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,76.5,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,76.4,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,76.5,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,76.5,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,1.1,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,1.1,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,1.1,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,1.1,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,1.1,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,1.1,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,1.1,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,1.1,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,1.2,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,1.2,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,1.3,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,1.3,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,1.3,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,1.4,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,1.4,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,1.3,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,1.3,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,1.3,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,1.3,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,1.3,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,1.3,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,3,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,3,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,3,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,3,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,3,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,4,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,4,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,5,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,5,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,6,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,6,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,6,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,6,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,6,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,6,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,6,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,6,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,5,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,5,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,6,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,6,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,0.09,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,0.54,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.49,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,0.35,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,0.57,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,0.29,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,0.19,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,0.11,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,-0.04,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,0.14,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,0.08,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,-0.01,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,0.05,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,0.27,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,0.25,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,0.13,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,0.11,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,0.25,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,0.15,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,0.12,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,0.06,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,0.14,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,31,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,22,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,24,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,36,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,37,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,24,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,23,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,24,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,20,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,24,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,23,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,22,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,24,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,26,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,21,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,28,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,28,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,26,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,17,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,18,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,10,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,16,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,14,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,14,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,93,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,93,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,93,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,93,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,93,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,93,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,93,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,93,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,93,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,93,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,93,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,93,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,93,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,94,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,94,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,94,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,94,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,94,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,94,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,94,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,94,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,94,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,94,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,97,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,97,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,97,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,97,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,97,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,97,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,97,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,97,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,97,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,97,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,97,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,97,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,97,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,97,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,97,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,97,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,97,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,97,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,97,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,97,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,97,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,97,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,97,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,76,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,76,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,76,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,77,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,77,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,77,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,77,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,77,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,78,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,78,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,79,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,79,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,80,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,80,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,81,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,81,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,82,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,82,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,83,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,84,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,84,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,85,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,86,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,93,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,93,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,94,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,94,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,94,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,94,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,94,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,94,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,94,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,95,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,95,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,95,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,95,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,95,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,95,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,95,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,96,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,96,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,96,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,96,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,96,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,96,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,96,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,13.2,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,8.1,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,11.6,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,9.7,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,11,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,0.3,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,0.2,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,0.3,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,0.3,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,0.3,X,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,19.5,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,18.9,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,18.5,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,18.2,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,18,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,17.9,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,17.9,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,17.8,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,17.6,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,17.5,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,17.4,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,17.4,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,17.6,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,18,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,18.5,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,19,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,19.6,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,20.1,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,20.6,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,21,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,21.4,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,21.7,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,21.9,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,0.5,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,0.5,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,0.5,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,0.5,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,0.5,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,0.5,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,0.5,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,0.5,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,0.5,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,0.5,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,0.4,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,0.4,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,0.4,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,0.4,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,0.5,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,0.5,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,0.5,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,0.5,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,0.5,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,0.5,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,0.6,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,0.6,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,0.6,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,5.6,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,5.7,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,5.8,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,5.8,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,5.9,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,5.9,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,6,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,6,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,6.1,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,6.1,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,6.2,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,6.2,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,6.2,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,6.1,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,6.1,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,6.1,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,6,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,6,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,5.9,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,5.9,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,5.8,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,5.7,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,5.7,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,0.2,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,0.2,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,0.2,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,0.2,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,0.2,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,0.2,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,0.2,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,0.2,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.2,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.2,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.2,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.2,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.2,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.2,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.2,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.2,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.2,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.2,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.2,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.2,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.2,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,9.3,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,9.8,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,10.4,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,10.9,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,11.5,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,12.1,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,12.7,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,13.3,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,13.8,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,14.4,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,14.9,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,15.5,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,16,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,16.6,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,17.1,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,17.7,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,18.3,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,18.9,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,19.5,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,20.1,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,20.8,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,21.4,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,22.1,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,1.3,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,1.4,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,1.5,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,1.7,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,1.8,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,2,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,2.1,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,2.3,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,2.5,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,2.7,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,2.8,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,3,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,3.2,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,3.4,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,3.6,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,3.8,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,4,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,4.3,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,4.5,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,4.7,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,5,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,5.2,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,5.4,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,35.1,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,34.7,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,34.2,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,33.5,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,32.9,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,32.5,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,32,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,31.5,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,31.1,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,30.7,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,30.4,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,30.2,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,30.1,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,30.2,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,30.4,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,30.7,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,30.9,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,31.3,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,31.6,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,32,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,2.1,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,2.2,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,2.2,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,2.2,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,2.2,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,2.2,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,2.2,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,2.2,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,2.3,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,2.3,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,2.3,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,2.3,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,2.4,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,2.4,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,2.5,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,2.5,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,2.6,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,2.6,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,2.7,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,2.8,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,40.3,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,12.1,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,12.2,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,12.2,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,12.3,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,12.3,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,12.4,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,12.5,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,12.5,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,12.6,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,12.7,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,12.8,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,12.9,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,13,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,13.1,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,13.2,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,13.3,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,13.4,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,13.5,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,13.6,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,13.7,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,13.8,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,0.1,X,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,0.1,X,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,0.1,X,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,0.1,X,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,0.1,X,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,0.1,X,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,0.1,X,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,0.1,X,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,0.1,X,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,0.1,X,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,0.1,X,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,0.1,X,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,0.1,X,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,0.1,X,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,0.1,X,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,0.1,X,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,0.1,X,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,0.1,X,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,0.1,X,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,0.1,X,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,0.1,X,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1769,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1772,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1776,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1782,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1787,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1792,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1798,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1803,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1809,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1815,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1821,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1826,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1829,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1832,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1835,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1837,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1839,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1841,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1843,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1845,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1847,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1848,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1850,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1851,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2285,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2289,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2296,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2304,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2312,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2320,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2328,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2337,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2345,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2354,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2362,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2368,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2373,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2377,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2380,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2383,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2385,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2388,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2390,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2392,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2394,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2395,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2397,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2398,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.21,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.21,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.22,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.22,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.22,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.22,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.22,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.22,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.22,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.22,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.22,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.22,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.22,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.22,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.22,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.22,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.22,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.21,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.21,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.21,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.21,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.21,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.21,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.21,E,
+MYS,2000-01-01,2000-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,2.95,E,
+MYS,2001-01-01,2001-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,2.99,E,
+MYS,2002-01-01,2002-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,3.06,E,
+MYS,2003-01-01,2003-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,2.97,E,
+MYS,2004-01-01,2004-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,2.97,E,
+MYS,2005-01-01,2005-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,3.06,E,
+MYS,2006-01-01,2006-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,3.01,E,
+MYS,2007-01-01,2007-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,2.91,E,
+MYS,2008-01-01,2008-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,2.85,E,
+MYS,2009-01-01,2009-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,2.91,E,
+MYS,2010-01-01,2010-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,2.91,E,
+MYS,2011-01-01,2011-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,2.84,E,
+MYS,2012-01-01,2012-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,2.9,E,
+MYS,2013-01-01,2013-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,2.92,E,
+MYS,2014-01-01,2014-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,2.91,E,
+MYS,2015-01-01,2015-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,3,E,
+MYS,2016-01-01,2016-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,2.9,E,
+MYS,2017-01-01,2017-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,2.84,E,
+MYS,2018-01-01,2018-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,2.84,E,
+MYS,2019-01-01,2019-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,2.84,E,
+MYS,2020-01-01,2020-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,2.79,E,
+MYS,2021-01-01,2021-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,2.79,E,
+MYS,2022-01-01,2022-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,2.79,E,
+MYS,2023-01-01,2023-12-31,131,'458,Malaysia,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,2.79,E,
+MYS,2000-01-01,2002-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,86.2,E,
+MYS,2001-01-01,2003-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,86.2,E,
+MYS,2002-01-01,2004-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,86.7,E,
+MYS,2003-01-01,2005-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,86.2,E,
+MYS,2004-01-01,2006-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,85.5,E,
+MYS,2005-01-01,2007-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,84.2,E,
+MYS,2006-01-01,2008-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,83.9,E,
+MYS,2007-01-01,2009-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,84,E,
+MYS,2008-01-01,2010-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,84.2,E,
+MYS,2009-01-01,2011-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,85.1,E,
+MYS,2010-01-01,2012-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,86.1,E,
+MYS,2011-01-01,2013-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,86.9,E,
+MYS,2012-01-01,2014-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,87.5,E,
+MYS,2013-01-01,2015-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,91,E,
+MYS,2014-01-01,2016-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,95.7,E,
+MYS,2015-01-01,2017-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,99.5,E,
+MYS,2016-01-01,2018-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,99.8,E,
+MYS,2017-01-01,2019-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,99.9,E,
+MYS,2018-01-01,2020-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,101.6,E,
+MYS,2019-01-01,2021-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,103.6,E,
+MYS,2020-01-01,2022-12-31,131,'458,Malaysia,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,103.8,E,
