@@ -265,9 +265,7 @@ def calculate_global_averages(date):
     return {item: sum(values) / len(values) for item, values in averages.items()}
 # App Layout
 st.title("Food Security Analysis Dashboard")
-st.write("Explore food security indicators across countries. 
-\n All the data was collected from the HDX 
-\n M.Mandakhbayar ")
+st.write("Explore food security indicators across countries. \n All the data was collected from the HDX  \n M.Mandakhbayar ")
 
 # Dataset List
 dataset_files = [{"file": file, "display": format_dataset_name(file)} for file in DATASET_GLOB]
