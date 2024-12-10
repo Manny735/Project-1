@@ -1,0 +1,1087 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+FRA,2000-01-01,2002-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,145,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,145,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,144,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,143,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,142,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,141,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,141,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,141,E,
+FRA,2008-01-01,2010-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,142,E,
+FRA,2009-01-01,2011-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,142,E,
+FRA,2010-01-01,2012-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,142,E,
+FRA,2011-01-01,2013-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,141,E,
+FRA,2012-01-01,2014-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,141,E,
+FRA,2013-01-01,2015-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,140,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,140,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,140,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,141,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,141,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,142,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,143,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,144,E,
+FRA,2021-01-01,2023-12-31,68,'250,France,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,145,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,3617,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,3653,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,3671,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,3603,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,3573,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,3557,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,3532,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,3485,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,3571,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,3549,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,3557,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,3542,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,3507,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,3516,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,3478,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,3465,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,3508,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,3514,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,3505,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,3535,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,3578,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,3604,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3620,E,Imputed value
+FRA,2023-01-01,2023-12-31,68,'250,France,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3615,E,Imputed value
+FRA,2000-01-01,2002-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,3647,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,3642,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,3615,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,3578,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,3554,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,3525,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,3529,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,3535,E,
+FRA,2008-01-01,2010-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,3559,E,
+FRA,2009-01-01,2011-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,3549,E,
+FRA,2010-01-01,2012-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,3535,E,
+FRA,2011-01-01,2013-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,3522,E,
+FRA,2012-01-01,2014-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,3500,E,
+FRA,2013-01-01,2015-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,3486,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,3484,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,3496,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,3509,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,3518,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,3539,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,3572,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,3600,E,
+FRA,2021-01-01,2023-12-31,68,'250,France,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3612,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,28,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,28,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,28,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,28,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,29,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,29,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,29,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,29,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,29,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,30,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,30,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,30,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,29,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,29,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,29,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,118.5,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,118.1,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,116.4,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,113.9,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,112.1,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,111,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,111.4,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,111.5,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,117.4,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,118.7,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,119.6,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,120.4,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,120.6,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,121.4,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,120.9,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,78.8,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,78.5,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,76.7,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,74.4,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,72.5,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,71.6,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,71.3,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,71.4,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,76.6,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,76.9,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,77.3,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,78.3,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,79.1,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,79.8,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,79.2,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,5.3,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,5.4,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,5.4,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,5.3,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,5.3,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,5.2,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,5.4,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,5.5,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,5.5,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2009,2009,km,6.1,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2010,2010,km,5.5,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,5.5,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2012,2012,km,5.4,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2013,2013,km,5.5,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2015,2015,km,5.3,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2016,2016,km,5.3,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2017,2017,km,5.3,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2018,2018,km,5.1,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2019,2019,km,5.1,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2020,2020,km,5.1,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2021,2021,km,5,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,47587.9,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,48179.2,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,48372.5,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,48425.4,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,49431,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,49877.7,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,50746.1,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,51657.1,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,51500.9,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,49765.1,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,50485.8,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,51344.4,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,51256.5,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,51286.3,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,51534.8,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,51923.4,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,52353.9,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,53398.3,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,54199.6,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,55010.4,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,50724.5,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,53834.8,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,54988.3,X,
+FRA,2000-01-01,2002-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,<2.5,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,<2.5,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,<2.5,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,<2.5,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,<2.5,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,<2.5,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,<2.5,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,<2.5,E,
+FRA,2008-01-01,2010-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,<2.5,E,
+FRA,2009-01-01,2011-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,<2.5,E,
+FRA,2010-01-01,2012-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,<2.5,E,
+FRA,2011-01-01,2013-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,<2.5,E,
+FRA,2012-01-01,2014-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,<2.5,E,
+FRA,2013-01-01,2015-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,<2.5,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,<2.5,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,<2.5,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,<2.5,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,<2.5,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,<2.5,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,<2.5,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,<2.5,E,
+FRA,2021-01-01,2023-12-31,68,'250,France,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,<2.5,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,,Q,
+FRA,2001-01-01,2003-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,,Q,
+FRA,2002-01-01,2004-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,,Q,
+FRA,2003-01-01,2005-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,,Q,
+FRA,2004-01-01,2006-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,,Q,
+FRA,2005-01-01,2007-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,,Q,
+FRA,2006-01-01,2008-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,,Q,
+FRA,2007-01-01,2009-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,,Q,
+FRA,2008-01-01,2010-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,,Q,
+FRA,2009-01-01,2011-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,,Q,
+FRA,2010-01-01,2012-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,,Q,
+FRA,2011-01-01,2013-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,,Q,
+FRA,2012-01-01,2014-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,,Q,
+FRA,2013-01-01,2015-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,,Q,
+FRA,2014-01-01,2016-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,,Q,
+FRA,2015-01-01,2017-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,,Q,
+FRA,2016-01-01,2018-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,,Q,
+FRA,2017-01-01,2019-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+FRA,2018-01-01,2020-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+FRA,2019-01-01,2021-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,,Q,
+FRA,2020-01-01,2022-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,,Q,
+FRA,2021-01-01,2023-12-31,68,'250,France,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,,Q,
+FRA,2014-01-01,2016-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,1.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,1.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,0.9,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,0.7,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,0.7,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,1,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,1.6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,2.3,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.7,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.6,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.6,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,1,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,1.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.4,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.9,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.4,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2.1,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,2.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,1.5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,1.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,1,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,1.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.5,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,2.1,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.7,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,0.7,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,0.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.7,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.9,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,1.6,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,2.4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,2,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1.4,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1.6,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.9,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2.2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,2.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,0.9,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,<0.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,<0.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,<0.5,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,0.7,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,2.4,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.9,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,<0.5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,1.1,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,1.9,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,2.3,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.3,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,0.6,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,0.7,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,<0.5,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,3,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,6.8,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,6.3,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,6.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,6,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,5.8,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,5.9,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,6.6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,7.9,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,5.3,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,5.2,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,4.9,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,4.7,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,4.8,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,5.5,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,6.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,8.4,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,7.6,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,7.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,7.1,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.8,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,7,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.7,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.9,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,6.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,6.5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,7.1,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,6.4,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,6.4,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,6.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,6.2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,7.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,4.9,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,5.8,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,5.3,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,5.1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,5.1,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,5,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,6.5,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,8.2,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,7.9,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,8.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,7.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,7.6,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,7.6,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.4,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,7.1,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,6.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,5.6,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,5.6,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,5.1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,5.5,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,7,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,8.1,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,5.7,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,5,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,4.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,4.6,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,4.2,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,4.6,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7.1,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,8.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,7.3,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,6.6,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.6,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,6.1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.4,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.9,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,9,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,1,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,0.8,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,0.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,0.4,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,0.7,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,1,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,1.5,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.3,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.2,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.4,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.7,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.1,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.8,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.7,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.7,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.9,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.3,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,0.4,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.2,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,0.3,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.4,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.5,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.1,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.2,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.1,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.1,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.2,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.4,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.6,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.3,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.4,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.5,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.5,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.4,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,,Q,
+FRA,2017-01-01,2019-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+FRA,2018-01-01,2020-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+FRA,2019-01-01,2021-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.2,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.4,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.2,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.1,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,,Q,
+FRA,2017-01-01,2019-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,,Q,
+FRA,2018-01-01,2020-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,,Q,
+FRA,2019-01-01,2021-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.1,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.3,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,,Q,
+FRA,2017-01-01,2019-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,,Q,
+FRA,2018-01-01,2020-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,,Q,
+FRA,2019-01-01,2021-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,4.3,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,4.1,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,3.9,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,3.7,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,3.8,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,4.2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,5.1,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,3.4,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,3.2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,3.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,3.2,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,3,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,3.1,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,3.5,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,4.4,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,5.3,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,4.9,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,4.8,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,4.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,4.4,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,4.5,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,4.9,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,5.8,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,1.6,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,1.6,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,1.8,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,1.6,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,1.6,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,1.6,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,1.6,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,2,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.2,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.3,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.3,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.3,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.3,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.7,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.1,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.9,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.9,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.9,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.9,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.2,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,1.9,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,1.7,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,1.5,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,1.5,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,1.4,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,1.5,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,1.9,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,2.3,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.5,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1.4,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.3,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.3,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.2,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.3,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.7,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2,A,FAO data
+FRA,2014-01-01,2016-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.3,A,FAO data
+FRA,2015-01-01,2017-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2,A,FAO data
+FRA,2016-01-01,2018-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.8,A,FAO data
+FRA,2017-01-01,2019-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.8,A,FAO data
+FRA,2018-01-01,2020-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.7,A,FAO data
+FRA,2019-01-01,2021-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.8,A,FAO data
+FRA,2020-01-01,2022-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2.2,A,FAO data
+FRA,2021-01-01,2023-12-31,68,'250,France,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.5,A,FAO data
+FRA,2000-01-01,2002-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,-82.9,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,-82.4,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,-81.9,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,-84.7,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,-81,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,-78.1,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,-73.6,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,-72.8,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,-103.2,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,-95.9,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,-99.3,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,-66.7,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,-99.7,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,-87.8,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,-102.5,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,4.8,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,4.9,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,4.9,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,4.9,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,4.9,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,4.9,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,4.9,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,4.9,E,
+FRA,2008-01-01,2010-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,4.9,E,
+FRA,2009-01-01,2011-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,5,E,
+FRA,2010-01-01,2012-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,5,E,
+FRA,2011-01-01,2013-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,5.1,E,
+FRA,2012-01-01,2014-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,5.1,E,
+FRA,2013-01-01,2015-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,5.1,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,5,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,5,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,5,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,5.1,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,5.2,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,5.2,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,5.2,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,6,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,6,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,6,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,6,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,6,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,6,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,7,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,7,E,
+FRA,2008-01-01,2010-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,7,E,
+FRA,2009-01-01,2011-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,8,E,
+FRA,2010-01-01,2012-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,8,E,
+FRA,2011-01-01,2013-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,8,E,
+FRA,2012-01-01,2014-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,8,E,
+FRA,2013-01-01,2015-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,8,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,8,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,9,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,9,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,9,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,9,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,9,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,9,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,0.79,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,0.92,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.18,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,0.35,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,0.4,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,0.6,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,0.56,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,0.54,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,0.51,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,0.68,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,0.6,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,0.55,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,0.45,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,0.3,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,0.1,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,-0.11,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,0.27,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,0.01,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,0.27,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,0.28,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,0.33,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,0.33,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,21,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,21,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,23,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,25,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,27,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,34,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,40,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,42,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,29,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,35,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,40,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,46,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,45,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,12,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,12,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,20,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,23,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,19,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,20,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,18,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,17,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,13,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,15,E,
+FRA,2023-01-01,2023-12-31,68,'250,France,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,15,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,97,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,97,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,97,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,97,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,98,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,98,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,98,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,98,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,98,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,98,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,98,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,98,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,98,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,99,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,99,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,99,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,99,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,99,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,99,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,99,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,99,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,99,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,99,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,99,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,99,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,99,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,99,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,99,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,99,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,99,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,99,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,99,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,99,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,99,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,99,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,99,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,99,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,99,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,99,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,99,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,99,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,99,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,99,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,99,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,99,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,99,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,89,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,89,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,89,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,89,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,89,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,89,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,89,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,89,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,89,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,89,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,89,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,89,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,89,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,89,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,89,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,89,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,89,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,89,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,89,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,89,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,90,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,90,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,90,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,99,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,99,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,99,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,99,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,99,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,99,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,99,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,99,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,99,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,99,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,99,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,99,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,99,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,99,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,99,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,99,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,99,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,99,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,99,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,99,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,99,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,99,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,99,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+FRA,2023-01-01,2023-12-31,68,'250,France,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,11.8,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,12,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,12.1,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,12.2,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,12.3,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,12.3,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,12.4,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,12.4,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,12.3,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,12.2,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,12.1,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,11.9,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,11.7,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,11.5,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,11.3,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,11.1,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,10.9,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,10.7,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,10.5,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,10.3,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,10.1,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,9.9,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,9.7,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,5.4,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,5.5,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,5.6,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,5.7,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,5.7,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,5.8,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,5.9,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,5.9,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,5.9,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,5.9,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,5.9,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,5.8,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,5.8,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,5.7,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,5.6,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,5.5,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,5.5,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,5.4,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,5.3,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,5.2,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,5.1,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,5,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,5,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,8.4,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,8.3,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,8.3,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,8.4,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,8.5,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,8.5,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,8.6,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,8.6,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,8.6,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,8.6,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,8.6,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,8.7,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,8.8,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,8.9,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,9.1,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,9.4,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,9.7,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,10,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,10.3,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,10.6,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,1.2,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,1.2,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,1.2,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,1.2,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,1.2,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,1.2,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,1.2,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,1.2,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,1.2,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,1.2,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,1.2,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,1.2,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,1.3,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,1.3,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,1.3,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,1.3,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,1.4,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,1.4,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,1.4,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,1.5,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+FRA,2021-01-01,2021-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+FRA,2022-01-01,2022-12-31,68,'250,France,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,7.6,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,7.6,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,7.6,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,7.6,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,7.6,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,7.6,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,7.6,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,7.6,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,7.6,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,7.5,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,7.5,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,7.5,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,7.5,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,7.5,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,7.5,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,7.5,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,7.5,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,7.5,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,7.5,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,7.4,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,7.4,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,0.1,X,
+FRA,2001-01-01,2001-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,0.1,X,
+FRA,2002-01-01,2002-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,0.1,X,
+FRA,2003-01-01,2003-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,0.1,X,
+FRA,2004-01-01,2004-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,0.1,X,
+FRA,2005-01-01,2005-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,0.1,X,
+FRA,2006-01-01,2006-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,0.1,X,
+FRA,2007-01-01,2007-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,0.1,X,
+FRA,2008-01-01,2008-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,0.1,X,
+FRA,2009-01-01,2009-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,0.1,X,
+FRA,2010-01-01,2010-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,0.1,X,
+FRA,2011-01-01,2011-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,0.1,X,
+FRA,2012-01-01,2012-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,0.1,X,
+FRA,2013-01-01,2013-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,0.1,X,
+FRA,2014-01-01,2014-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,0.1,X,
+FRA,2015-01-01,2015-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,0.1,X,
+FRA,2016-01-01,2016-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,0.1,X,
+FRA,2017-01-01,2017-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,0.1,X,
+FRA,2018-01-01,2018-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,0.1,X,
+FRA,2019-01-01,2019-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,0.1,X,
+FRA,2020-01-01,2020-12-31,68,'250,France,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,0.1,X,
+FRA,2000-01-01,2000-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1932,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1932,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1932,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1932,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1932,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1932,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1931,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1930,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1928,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1926,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1925,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1923,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1922,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1921,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1921,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1921,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1921,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1921,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1921,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1922,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1923,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1924,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1924,E,
+FRA,2023-01-01,2023-12-31,68,'250,France,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1924,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2509,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2509,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2508,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2508,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2508,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2508,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2507,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2505,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2503,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2500,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2498,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2497,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2495,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2494,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2493,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2493,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2493,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2494,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2495,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2496,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2497,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2499,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2500,E,
+FRA,2023-01-01,2023-12-31,68,'250,France,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2501,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.2,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.2,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.2,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.2,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.2,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.2,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.2,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.2,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.2,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.2,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.2,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.2,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.2,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.2,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.2,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.2,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.2,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.2,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.2,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.2,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.2,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.2,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.21,E,
+FRA,2023-01-01,2023-12-31,68,'250,France,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.21,E,
+FRA,2000-01-01,2000-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,2.05,E,
+FRA,2001-01-01,2001-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,2.06,E,
+FRA,2002-01-01,2002-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,2.07,E,
+FRA,2003-01-01,2003-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,2.05,E,
+FRA,2004-01-01,2004-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,2.05,E,
+FRA,2005-01-01,2005-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,2,E,
+FRA,2006-01-01,2006-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,1.97,E,
+FRA,2007-01-01,2007-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,1.99,E,
+FRA,2008-01-01,2008-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,2.06,E,
+FRA,2009-01-01,2009-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,2.02,E,
+FRA,2010-01-01,2010-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,1.93,E,
+FRA,2011-01-01,2011-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,1.92,E,
+FRA,2012-01-01,2012-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,1.92,E,
+FRA,2013-01-01,2013-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,1.92,E,
+FRA,2014-01-01,2014-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,1.96,E,
+FRA,2015-01-01,2015-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,1.95,E,
+FRA,2016-01-01,2016-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,2,E,
+FRA,2017-01-01,2017-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,2.06,E,
+FRA,2018-01-01,2018-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,1.99,E,
+FRA,2019-01-01,2019-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,1.98,E,
+FRA,2020-01-01,2020-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,1.96,E,
+FRA,2021-01-01,2021-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,1.98,E,
+FRA,2022-01-01,2022-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,1.98,E,
+FRA,2023-01-01,2023-12-31,68,'250,France,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,1.98,E,
+FRA,2000-01-01,2002-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,170.8,E,
+FRA,2001-01-01,2003-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,170.3,E,
+FRA,2002-01-01,2004-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,167.1,E,
+FRA,2003-01-01,2005-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,164.4,E,
+FRA,2004-01-01,2006-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,162.5,E,
+FRA,2005-01-01,2007-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,162.1,E,
+FRA,2006-01-01,2008-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,163.5,E,
+FRA,2007-01-01,2009-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,164.3,E,
+FRA,2014-01-01,2016-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,143.4,E,
+FRA,2015-01-01,2017-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,144.2,E,
+FRA,2016-01-01,2018-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,147.6,E,
+FRA,2017-01-01,2019-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,150.4,E,
+FRA,2018-01-01,2020-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,151.8,E,
+FRA,2019-01-01,2021-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,151.2,E,
+FRA,2020-01-01,2022-12-31,68,'250,France,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,152,E,

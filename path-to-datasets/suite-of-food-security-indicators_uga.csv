@@ -1,0 +1,1099 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,112,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,114,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,116,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,116,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,115,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,114,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,113,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,112,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,111,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,109,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,108,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,107,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,106,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,104,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,99,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,96,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,95,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,96,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,98,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,98,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,98,E,
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,98,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2327,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2345,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2402,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2461,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2434,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2420,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2405,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2390,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2376,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2362,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2347,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2303,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2313,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2295,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2238,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2158,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2029,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2054,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2140,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2128,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2162,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2175,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2167,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2167,E,Imputed value
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,2359,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,2404,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,2433,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,2438,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,2419,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,2404,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,2390,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,2375,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,2361,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,2336,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,2321,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,2304,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,2281,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,2229,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,2139,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,2079,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,2076,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,2108,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,2144,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,2156,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,2168,E,
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,2169,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,45,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,45,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,45,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,45,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,45,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,45,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,45,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,44,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,44,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,45,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,46,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,47,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,48,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,47,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,47,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,46,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,46,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,44,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,43,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,42,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,42,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,50.3,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,52.1,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,52.8,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,53.5,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,52.4,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,51.7,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,51.7,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,53,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,56.1,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,57.6,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,58.6,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,57.9,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,57.4,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,56.1,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,53,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,50.1,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,48.6,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,48.4,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,48.9,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,50.1,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,51.6,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,8.9,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,9.4,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,10.3,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,11.3,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,11.9,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,12.4,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,12.5,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,12.8,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,13.2,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,13.7,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,13.9,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,13.7,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,13.8,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,13.9,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,13.6,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,12.9,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,12.6,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,12.7,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,12.7,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,12.6,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,12.4,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,0.1,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,0.1,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,0.1,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,1485.7,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,1515.9,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,1597.8,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,1649,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,1709.9,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,1766.1,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,1900.4,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,2000.7,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,2112.2,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,2191,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,2248,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,2388.7,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,2409.6,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,2425.2,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,2474.5,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,2523.7,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,2557.6,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,2547,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,2617.1,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,2692.6,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,2681.2,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,2688.3,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,2728.5,X,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,21,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,19.3,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,18.2,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,18,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,18.6,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,19.1,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,19.4,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,19.7,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,19.7,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,20.4,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,21.1,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,22.4,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,24.4,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,27.9,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,33.3,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,37.5,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,38.9,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,38.4,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,37.3,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,37.1,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,36.8,E,
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,36.9,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,5.2,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,4.9,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,4.8,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,4.9,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,5.2,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,5.5,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,5.8,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,6,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,6.2,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,6.6,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,7,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,7.7,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,8.6,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,10.1,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,12.5,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,14.5,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,15.6,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,15.9,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,16,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,16.5,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,16.9,E,
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,17.4,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,21.5,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,24,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,25.6,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,24.9,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,23.4,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,23.2,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,24.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,23,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,19.7,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,22.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,23.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,23.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,21.6,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,21.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,23.1,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21.3,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,23.3,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,25.7,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,27.4,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,26.6,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,25.2,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,25,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,26.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,24.8,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,22.5,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,25.1,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,26.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,26,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,24.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,24.3,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,25.5,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,22.8,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,20.6,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,23.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,24.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,24,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,22.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,22.4,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,23.7,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,24.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,27,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,28.7,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,27.9,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,26.4,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,26.2,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,27.4,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,24.7,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,20.5,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,22.9,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,24.4,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,23.7,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,22.3,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,22.2,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,24.3,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,23.2,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,18.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,21.3,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,22.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,22.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,20.7,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,20.6,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,22.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21.5,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,22.1,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,24.5,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,26,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,25.3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,23.9,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,23.8,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,25.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,24.9,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,66.3,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,71.3,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,76,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,75,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,73.1,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,72.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,74.2,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,71.2,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,63.8,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,68.9,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,73.5,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,72.6,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,70.6,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,70.1,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,71.7,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,68.8,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,68.8,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,73.8,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,78.4,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,77.5,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,75.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,75,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,76.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,73.7,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,68.2,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,73.4,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,78.1,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,77.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,75.1,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,74.6,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,75.5,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,71.3,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,65.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,70.6,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,75.3,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,74.3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,72.3,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,71.8,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,72.8,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,68.5,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,70.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,76.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,80.9,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,79.9,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,77.9,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,77.4,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,78.3,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,74.1,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,64.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,69.4,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,73.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,72.9,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,71,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,70.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,72.8,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,71.1,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,62.3,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,67.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,71.7,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,70.7,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,68.8,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,68.3,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,70.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,68.9,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,66.6,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,71.6,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,76,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,75.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,73.2,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,72.7,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,75,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,73.3,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,8.1,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,9.3,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,10.3,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,10.3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,10.1,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,10.3,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,11.4,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,10.9,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,7.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,8.6,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,9.6,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,9.6,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,9.3,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,9.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,10.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,10,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,8.7,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,10,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,11,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,11.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,10.8,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,11.1,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,12.2,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,11.7,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,2.1,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,2.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,2.8,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,2.8,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,3.1,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,2.3,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,2.6,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,2.6,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,2.6,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2.7,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.3,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2.7,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,3,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,3,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.1,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,3.4,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,3.1,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,2,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,2.4,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,2.6,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,2.7,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,2.6,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,2.7,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,3.1,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,3.1,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,2.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.2,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,2.5,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.8,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,2.9,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,3.3,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,3.3,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,24.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,27.7,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,30.5,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,31.2,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,31.4,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,32.2,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,34,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,33.6,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,23.9,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,26.7,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,29.5,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,30.1,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,30.3,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,31.1,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,32.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,32.5,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,25.8,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,28.6,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,31.5,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,32.2,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,32.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,33.3,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,35.1,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,34.8,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,6.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,7.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,8.3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,8.5,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,8.8,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,9.3,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,9.1,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,6.1,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,6.9,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,7.7,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,8,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,8.2,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,8.5,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,8.9,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,8.7,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,6.7,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,7.5,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,8.3,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,8.6,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,8.8,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,9.1,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,9.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,9.4,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,6.4,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,7.2,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,8.3,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,8.4,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,8.7,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,9.4,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,9.5,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,6.2,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,7,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,7.8,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,8,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,8.2,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,8.4,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,9.1,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,9.2,A,Official estimate integrated with FAO data
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,6.6,A,Official estimate integrated with FAO data
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,7.4,A,Official estimate integrated with FAO data
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,8.2,A,Official estimate integrated with FAO data
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,8.5,A,Official estimate integrated with FAO data
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,8.7,A,Official estimate integrated with FAO data
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,9,A,Official estimate integrated with FAO data
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,9.6,A,Official estimate integrated with FAO data
+UGA,2021-01-01,2023-12-31,226,'800,Uganda,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,9.8,A,Official estimate integrated with FAO data
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,5.9,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,6.7,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,11.2,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,14.1,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,15.8,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,15.3,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,13.7,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,12,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,9.6,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,9.2,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,9.1,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,9.4,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,9.5,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,6.8,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,6.7,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,6,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,6.1,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,9,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,9.5,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,12.3,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,14.4,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.1,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.1,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.1,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.1,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.1,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.1,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.1,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.1,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.1,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.1,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.1,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.1,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.1,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.1,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.1,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,0.1,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,0.1,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,0.1,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,0.1,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,0.1,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,0.1,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,22,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,26,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,34,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,34,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,32,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,29,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,30,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,30,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,33,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,33,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,34,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,33,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,33,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,31,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,29,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,27,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,26,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,24,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,22,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,23,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,22,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,-1.25,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,-1.42,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,-1.56,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,-1.3,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,-1.42,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,-1.14,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,-0.92,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,-0.88,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,-0.99,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,-1,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,-0.98,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,-0.87,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,-0.84,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,-0.94,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,-0.8,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,-0.72,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,-0.57,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,-0.7,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,-0.69,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,-0.81,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,-0.94,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,-0.81,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,81,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,26,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,27,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,27,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,43,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,44,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,37,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,20,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,15,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,4,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,6,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,10,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,9,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,14,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,18,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,18,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,36,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,83,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,83,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,69,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,62,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,74,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,56,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,20,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,2,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,3,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,3,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,4,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,4,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,5,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,6,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,6,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,7,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,8,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,8,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,9,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,10,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,11,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,12,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,12,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,13,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,14,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,15,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,16,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,17,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,18,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,19,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,26,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,28,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,29,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,30,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,32,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,33,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,34,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,36,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,37,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,39,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,40,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,42,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,43,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,45,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,46,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,48,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,50,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,51,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,53,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,54,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,56,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,58,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,59,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,14,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,14,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,14,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,15,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,15,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,15,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,15,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,15,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,16,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,16,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,16,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,16,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,16,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,16,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,16,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,17,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,17,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,17,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,17,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,17,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,18,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,18,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,18,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,16,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,17,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,17,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,17,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,17,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,18,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,18,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,18,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,18,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,18,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,18,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,19,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,19,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,19,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,19,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,20,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,20,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,20,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,20,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,20,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,21,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,21,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,21,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,5,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,6.2,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,4.4,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,4.6,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,4.2,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,3.8,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,5.8,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,3.5,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,2.8,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,3.6,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,0.2,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,0.4,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,0.3,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,0.3,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,0.3,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,0.3,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,0.4,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,0.2,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,0.2,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,0.3,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,44,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,43.6,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,43.1,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,42.6,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,42,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,41.3,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,40.6,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,39.7,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,38.6,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,37.4,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,36,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,34.6,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,33.3,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,32.1,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,30.8,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,29.6,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,28.4,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,27.3,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,26.3,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,25.5,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,24.7,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,24,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,23.4,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,2.1,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,2.2,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,2.2,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,2.2,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,2.3,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,2.3,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,2.3,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,2.3,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,2.3,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,2.3,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,2.2,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,2.2,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,2.1,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,2.1,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,2.1,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,2,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,2,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,1.9,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,1.9,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,1.9,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,1.9,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,1.8,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,1.8,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,5.6,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,5.8,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,6,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,6,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,5.9,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,5.6,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,5.3,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,5,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,4.7,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,4.4,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,4.2,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,4,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,3.9,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,3.8,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,3.7,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,3.7,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,3.7,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,3.6,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,3.6,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,3.6,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,3.5,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,3.5,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,3.5,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,0.3,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,0.3,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,0.3,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,0.3,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,0.3,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,0.3,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,0.3,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,0.3,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.3,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.3,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.3,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.3,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.2,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.2,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.2,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.3,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.3,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.3,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.3,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.3,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.3,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.3,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.3,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,2,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,2.1,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,2.3,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,2.4,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,2.6,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,2.7,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,2.9,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,3.1,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,3.3,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,3.5,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,3.7,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,3.9,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,4.2,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,4.4,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,4.7,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,5,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,5.3,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,5.7,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,6,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,6.5,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,6.9,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,7.4,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,7.9,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,0.2,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,0.2,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,0.2,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,0.3,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,0.3,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,0.3,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,0.4,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,0.4,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,0.4,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,0.5,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,0.5,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,0.6,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,0.6,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,0.7,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,0.7,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,0.8,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,0.9,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,1,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,1.2,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,1.3,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,1.4,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,1.6,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,1.8,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,39.3,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,38.6,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,37.9,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,37.3,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,36.7,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,36,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,35.1,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,34.3,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,33.4,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,32.6,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,32,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,31.5,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,31.3,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,31.2,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,31.3,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,31.5,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,31.7,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,32,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,32.4,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,32.8,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,2,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,2.1,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,2.1,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,2.1,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,2.2,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,2.2,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,2.2,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,2.3,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,2.3,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,2.3,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,2.4,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,2.4,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,2.5,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,2.6,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,2.7,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,2.8,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,2.9,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,3.1,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,3.3,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,3.4,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,62.5,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,59,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,62.2,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,65.5,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,,X,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,,X,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,,X,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,,X,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,,X,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,,X,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,,X,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,,X,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,,X,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,,X,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,,X,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,,X,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,,X,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,,X,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,,X,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,,X,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,,X,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,,X,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,,X,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,,X,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,,X,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1633,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1637,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1638,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1640,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1641,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1643,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1644,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1651,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1655,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1660,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1664,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1669,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1671,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1674,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1677,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1682,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1687,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1693,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1698,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1702,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1706,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1710,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1714,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1717,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2094,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2098,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2100,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2103,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2105,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2107,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2109,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2118,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2124,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2130,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2136,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2143,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2146,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2150,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2156,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2162,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2169,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2178,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2185,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2192,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2198,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2203,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2208,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2212,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.32,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.32,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.32,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.32,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.32,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.32,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.32,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.32,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.31,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.31,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.3,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.3,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.31,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.32,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.33,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.34,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.35,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.36,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.37,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.36,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.36,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.36,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.37,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.36,E,
+UGA,2000-01-01,2000-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,6,E,
+UGA,2001-01-01,2001-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,6.03,E,
+UGA,2002-01-01,2002-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,5.88,E,
+UGA,2003-01-01,2003-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,5.71,E,
+UGA,2004-01-01,2004-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,5.66,E,
+UGA,2005-01-01,2005-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,5.39,E,
+UGA,2006-01-01,2006-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,5.47,E,
+UGA,2007-01-01,2007-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,5.55,E,
+UGA,2008-01-01,2008-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,5.15,E,
+UGA,2009-01-01,2009-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,5.06,E,
+UGA,2010-01-01,2010-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,4.8,E,
+UGA,2011-01-01,2011-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,4.72,E,
+UGA,2012-01-01,2012-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,4.59,E,
+UGA,2013-01-01,2013-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,4.56,E,
+UGA,2014-01-01,2014-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,4.47,E,
+UGA,2015-01-01,2015-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,4.49,E,
+UGA,2016-01-01,2016-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,4.13,E,
+UGA,2017-01-01,2017-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,4.38,E,
+UGA,2018-01-01,2018-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,4.92,E,
+UGA,2019-01-01,2019-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,5.57,E,
+UGA,2020-01-01,2020-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,5.44,E,
+UGA,2021-01-01,2021-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,5.28,E,
+UGA,2022-01-01,2022-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,5.28,E,
+UGA,2023-01-01,2023-12-31,226,'800,Uganda,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,5.28,E,
+UGA,2000-01-01,2002-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,33.8,E,
+UGA,2001-01-01,2003-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,36.2,E,
+UGA,2002-01-01,2004-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,39.7,E,
+UGA,2003-01-01,2005-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,42.4,E,
+UGA,2004-01-01,2006-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,43.9,E,
+UGA,2005-01-01,2007-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,43.9,E,
+UGA,2006-01-01,2008-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,44.5,E,
+UGA,2007-01-01,2009-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,45.2,E,
+UGA,2008-01-01,2010-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,49,E,
+UGA,2009-01-01,2011-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,51.9,E,
+UGA,2010-01-01,2012-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,54.3,E,
+UGA,2011-01-01,2013-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,53.7,E,
+UGA,2012-01-01,2014-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,52.9,E,
+UGA,2013-01-01,2015-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,52.1,E,
+UGA,2014-01-01,2016-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,52.8,E,
+UGA,2015-01-01,2017-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,53.6,E,
+UGA,2016-01-01,2018-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,54.6,E,
+UGA,2017-01-01,2019-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,54,E,
+UGA,2018-01-01,2020-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,53.4,E,
+UGA,2019-01-01,2021-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,52,E,
+UGA,2020-01-01,2022-12-31,226,'800,Uganda,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,50.8,E,

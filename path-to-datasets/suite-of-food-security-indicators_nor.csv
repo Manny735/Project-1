@@ -1,0 +1,1113 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,135,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,135,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,136,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,137,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,137,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,137,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,137,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,137,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,138,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,139,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,140,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,140,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,140,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,138,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,136,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,135,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,135,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,136,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,138,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,138,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,136,E,
+NOR,2021-01-01,2023-12-31,162,'578,Norway,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,134,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,3372,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,3412,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,3452,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,3429,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,3469,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,3514,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,3443,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,3465,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,3483,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,3478,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,3567,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,3559,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,3577,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,3560,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,3517,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,3457,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,3416,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,3416,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,3486,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,3532,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,3532,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,3509,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3381,E,Imputed value
+NOR,2023-01-01,2023-12-31,162,'578,Norway,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3374,E,Imputed value
+NOR,2000-01-01,2002-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,3412,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,3431,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,3450,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,3471,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,3475,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,3474,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,3464,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,3475,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,3510,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,3535,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,3568,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,3565,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,3551,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,3511,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,3463,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,3430,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,3439,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,3478,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,3517,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,3524,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,3473,E,
+NOR,2021-01-01,2023-12-31,162,'578,Norway,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3421,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,32,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,32,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,32,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,32,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,32,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,32,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,32,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,32,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,31,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,30,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,29,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,29,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,30,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,30,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,31,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,30,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,31,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,31,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,31,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,31,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,31,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,105.4,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,105,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,104.6,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,104.5,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,105,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,105.8,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,107.3,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,108.9,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,117.5,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,124.7,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,131.6,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,130.3,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,128,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,126.4,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,124.7,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,125.4,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,126.7,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,128.8,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,129.9,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,129.5,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,128.6,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,64.5,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,63.7,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,63.3,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,63.1,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,63.3,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,63.6,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,64.4,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,65.1,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,67.7,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,69.4,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,71.4,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,70.5,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,69.2,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,68.5,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,68,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,69,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,69.6,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,69.8,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,69.6,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,70.1,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,70.5,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,1.1,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,1.1,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,1.1,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,1.1,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,1.1,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,1.1,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,1.1,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,1.1,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,1.1,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,1.1,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2014,2014,km,0.7,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2015,2015,km,0.7,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2016,2016,km,0.7,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2017,2017,km,0.7,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2018,2018,km,0.7,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2020,2020,km,0.6,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2021,2021,km,0.6,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,75763,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,76938.8,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,77579.2,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,77854.2,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,80502.7,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,82103.2,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,83449.3,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,84997,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,84348.8,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,81675.5,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,81299.3,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,81138.8,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,82256.6,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,82093.8,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,82835.8,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,83538.9,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,83770.6,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,85144.1,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,85285,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,85663.2,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,84071.8,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,86892,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,88712,X,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,<2.5,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,<2.5,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,<2.5,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,<2.5,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,<2.5,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,<2.5,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,<2.5,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,<2.5,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,<2.5,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,<2.5,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,<2.5,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,<2.5,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,<2.5,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,<2.5,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,<2.5,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,<2.5,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,<2.5,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,<2.5,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,<2.5,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,<2.5,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,<2.5,E,
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,<2.5,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,,Q,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,,Q,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,,Q,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,,Q,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,,Q,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,,Q,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,,Q,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,,Q,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,,Q,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,,Q,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,,Q,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,,Q,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,,Q,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,,Q,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,,Q,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,,Q,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,,Q,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,,Q,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,,Q,
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,,Q,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,1.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,1.2,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,1.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,1.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,1.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,1.4,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.5,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.5,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.6,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.9,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.7,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.9,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.8,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1.8,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1.6,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.5,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,1.5,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.7,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,1.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,1.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,1.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,1.2,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,1.3,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.7,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,1.8,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,<0.5,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,<0.5,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.6,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,1.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,1.4,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.6,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.7,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.8,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1.7,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,2,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.9,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,2.2,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.3,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,1.3,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,1.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,1.2,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,0.7,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,0.8,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,0.7,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.7,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,0.6,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,0.5,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,0.5,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.6,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,0.7,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.9,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,2,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.7,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1.8,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1.2,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,0.8,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.3,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,4.8,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,5,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,4.8,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,4.8,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,4.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,4.3,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,5.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,6.8,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,3.5,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,3.6,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,3.5,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,3.5,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.8,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,2.7,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,3.6,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,4.8,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,6.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.3,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,6.2,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.2,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,5.4,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,5.9,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,6.8,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.8,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,4.6,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,4.5,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,4.4,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,4.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,4.3,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,4.6,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,5.4,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,6.5,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,3.4,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,3.2,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,3.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,2.9,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.8,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,2.4,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,3.4,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,4.3,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.9,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,5.8,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,5.7,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,5.4,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,5.7,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,6.8,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,7.4,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.6,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,4.9,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,5.4,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,5.3,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,5.5,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,3.9,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,4.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,5,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,7.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,3.6,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,4,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,3.9,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,4.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.8,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,3,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,3.8,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,5.3,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,6.2,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,6.8,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,6.7,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,6.9,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,5.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,5.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,6.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8.9,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,0.2,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,0.3,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,0.3,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,0.3,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,0.2,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,0.2,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,0.3,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,0.4,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.2,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.2,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.2,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.2,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.3,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.3,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.3,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.3,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.3,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.3,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.3,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.4,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.5,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,<0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.2,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.2,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.2,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.2,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,<0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,<0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,<0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,<0.1,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,<0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,<0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.1,A,FAO data
+NOR,2014-01-01,2016-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.1,A,FAO data
+NOR,2015-01-01,2017-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.1,A,FAO data
+NOR,2016-01-01,2018-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.1,A,FAO data
+NOR,2017-01-01,2019-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.2,A,FAO data
+NOR,2018-01-01,2020-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.1,A,FAO data
+NOR,2019-01-01,2021-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.1,A,FAO data
+NOR,2020-01-01,2022-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.1,A,FAO data
+NOR,2021-01-01,2023-12-31,162,'578,Norway,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.2,A,FAO data
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,28.8,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,31.9,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,31.8,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,28,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,27.9,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,32.9,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,37.3,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,37.1,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,43.7,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,54.6,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,66.7,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,70.3,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,71,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,70.5,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,69,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,69.2,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,75,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,76.4,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,77,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,73.6,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,74.4,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.4,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.4,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.3,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.3,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.3,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.3,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.3,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.3,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.3,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.3,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.3,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.2,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.2,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.2,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.2,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,0.2,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,0.2,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,0.2,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,0.2,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,0.2,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,0.2,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,3,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,3,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,3,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,3,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,3,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,3,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,3,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,3,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,3,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,3,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,3,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,4,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,4,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,4,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,5,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,5,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,5,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,5,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,6,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,5,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,4,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,1.53,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,1.61,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,1.2,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,1.2,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,1.3,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,1.25,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,1.15,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,1.29,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,1.28,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,1.33,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,1.34,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,1.33,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,1.35,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,1.12,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,1.15,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,1.18,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,1.15,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,1.12,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,1.14,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,1.22,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,1.09,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,0.86,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,35,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,29,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,30,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,30,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,27,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,17,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,22,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,32,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,33,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,33,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,32,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,40,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,43,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,44,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,38,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,21,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,44,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,61,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,55,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,43,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,61,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,74,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,63,E,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,52,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,99,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,99,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,99,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,99,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,99,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,99,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,99,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,99,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,99,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,99,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,99,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,99,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,99,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,99,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,99,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,99,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,99,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,99,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,99,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,99,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,99,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,99,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,99,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,99,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,99,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,99,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,99,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,99,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,99,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,99,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,99,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,99,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,99,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,99,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,99,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,99,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,99,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,99,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,99,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,99,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,99,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,99,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,99,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,99,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,99,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,99,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,76,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,77,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,77,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,77,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,77,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,77,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,77,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,77,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,77,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,77,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,77,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,77,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,77,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,77,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,78,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,78,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,78,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,78,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,78,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,78,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,78,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,78,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,78,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,98,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,98,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,98,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,98,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,98,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,98,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,98,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,98,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,98,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,98,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,98,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,98,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,98,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,98,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,98,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,98,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,98,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,98,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,98,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,98,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,98,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,98,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,98,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,11.9,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,12.4,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,12.9,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,13.3,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,13.8,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,14.2,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,14.6,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,15,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,15.4,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,15.7,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,16,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,16.3,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,16.5,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,16.7,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,17,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,17.2,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,17.5,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,17.7,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,18,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,18.3,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,18.6,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,18.8,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,19.1,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,0.4,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,0.4,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,0.4,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,0.5,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,0.5,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,0.5,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,0.5,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,0.5,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,0.6,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,0.6,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,0.6,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,0.6,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,0.6,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,0.7,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,0.7,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,0.7,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,0.7,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,0.7,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,0.8,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,0.8,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,0.8,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,0.8,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,0.8,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,11.6,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,11.4,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,11.2,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,11,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,10.9,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,10.9,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,10.8,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,10.7,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,10.7,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,10.7,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,10.7,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,10.7,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,10.7,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,10.8,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,10.9,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,11,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,11.2,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,11.4,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,11.7,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,12,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,0.1,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,0.1,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,0.1,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,0.1,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,0.1,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,0.1,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,0.1,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,0.1,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,0.1,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,0.1,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,0.1,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,0.1,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,0.1,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,0.1,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,0.1,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,0.1,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,0.1,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,0.1,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,0.1,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,0.1,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,5.1,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,5,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,5,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,5,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,4.9,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,4.9,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,4.9,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,4.9,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,4.8,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,4.8,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,4.8,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,4.8,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,4.7,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,4.7,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,4.7,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,4.6,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,4.6,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,4.5,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,4.5,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,4.5,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,4.4,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,<0.1,X,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,<0.1,X,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,<0.1,X,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,<0.1,X,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,<0.1,X,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,<0.1,X,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,<0.1,X,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,<0.1,X,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,<0.1,X,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,<0.1,X,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,<0.1,X,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,<0.1,X,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,<0.1,X,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,<0.1,X,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,<0.1,X,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,<0.1,X,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,<0.1,X,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,<0.1,X,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,<0.1,X,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,<0.1,X,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,<0.1,X,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1946,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1946,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1949,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1950,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1951,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1952,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1952,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1952,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1953,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1953,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1953,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1954,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1955,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1956,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1957,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1958,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1958,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1959,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1960,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1961,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1962,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1964,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1965,E,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1966,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2526,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2527,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2530,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2532,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2533,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2535,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2535,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2536,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2538,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2538,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2539,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2540,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2542,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2543,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2545,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2546,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2547,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2548,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2550,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2551,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2554,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2556,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2557,E,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2560,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.2,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.2,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.2,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.2,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.2,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.2,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.2,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.2,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.2,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.2,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.2,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.2,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.2,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.2,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.2,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.2,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.2,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.2,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.2,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.2,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.2,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.2,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.21,E,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.21,E,
+NOR,2000-01-01,2000-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,2.18,E,
+NOR,2001-01-01,2001-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,2.15,E,
+NOR,2002-01-01,2002-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,2.12,E,
+NOR,2003-01-01,2003-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,2.13,E,
+NOR,2004-01-01,2004-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,2.12,E,
+NOR,2005-01-01,2005-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,2.13,E,
+NOR,2006-01-01,2006-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,2.17,E,
+NOR,2007-01-01,2007-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,2.17,E,
+NOR,2008-01-01,2008-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,2.21,E,
+NOR,2009-01-01,2009-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,2.15,E,
+NOR,2010-01-01,2010-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,1.96,E,
+NOR,2011-01-01,2011-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,1.97,E,
+NOR,2012-01-01,2012-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,1.96,E,
+NOR,2013-01-01,2013-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,1.96,E,
+NOR,2014-01-01,2014-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,1.98,E,
+NOR,2015-01-01,2015-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,1.96,E,
+NOR,2016-01-01,2016-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,2.02,E,
+NOR,2017-01-01,2017-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,2,E,
+NOR,2018-01-01,2018-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,2.02,E,
+NOR,2019-01-01,2019-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,2,E,
+NOR,2020-01-01,2020-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,2.01,E,
+NOR,2021-01-01,2021-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,2.04,E,
+NOR,2022-01-01,2022-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,2.04,E,
+NOR,2023-01-01,2023-12-31,162,'578,Norway,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,2.04,E,
+NOR,2000-01-01,2002-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,142.4,E,
+NOR,2001-01-01,2003-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,144.6,E,
+NOR,2002-01-01,2004-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,147.6,E,
+NOR,2003-01-01,2005-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,151.3,E,
+NOR,2004-01-01,2006-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,152.4,E,
+NOR,2005-01-01,2007-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,151.4,E,
+NOR,2006-01-01,2008-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,148.3,E,
+NOR,2007-01-01,2009-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,147.6,E,
+NOR,2008-01-01,2010-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,144.2,E,
+NOR,2009-01-01,2011-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,141.3,E,
+NOR,2010-01-01,2012-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,138.9,E,
+NOR,2011-01-01,2013-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,138.8,E,
+NOR,2012-01-01,2014-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,138.4,E,
+NOR,2013-01-01,2015-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,136.8,E,
+NOR,2014-01-01,2016-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,135.4,E,
+NOR,2015-01-01,2017-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,133.4,E,
+NOR,2016-01-01,2018-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,133.4,E,
+NOR,2017-01-01,2019-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,134.7,E,
+NOR,2018-01-01,2020-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,136.9,E,
+NOR,2019-01-01,2021-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,138.6,E,
+NOR,2020-01-01,2022-12-31,162,'578,Norway,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,138.8,E,

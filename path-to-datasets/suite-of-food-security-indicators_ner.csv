@@ -1,0 +1,1073 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,105,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,106,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,108,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,110,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,111,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,111,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,112,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,113,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,116,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,116,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,117,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,116,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,117,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,118,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,119,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,120,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,121,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,121,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,122,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,120,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,121,E,
+NER,2021-01-01,2023-12-31,158,'562,Niger,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,121,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2258,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2270,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2238,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2326,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2375,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2365,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2362,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2379,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2435,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2437,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2541,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2455,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2497,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2503,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2501,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2562,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2591,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2565,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2641,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2596,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2644,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2507,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2631,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2630,E,Imputed value
+NER,2000-01-01,2002-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,2255,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,2279,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,2315,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,2356,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,2367,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,2369,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,2393,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,2418,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,2472,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,2478,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,2497,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,2486,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,2500,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,2523,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,2552,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,2573,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,2600,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,2601,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,2627,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,2581,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,2594,E,
+NER,2021-01-01,2023-12-31,158,'562,Niger,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,2591,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,68,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,67,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,66,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,65,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,64,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,64,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,63,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,62,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,62,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,61,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,61,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,62,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,62,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,62,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,63,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,63,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,63,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,61,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,60,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,57,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,57,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,68.6,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,70,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,71.3,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,73.8,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,74.9,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,75.9,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,77.5,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,78.6,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,82.8,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,85,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,87.5,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,86.4,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,85.9,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,86.1,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,87.1,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,87.9,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,88.8,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,88.7,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,89.1,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,88.3,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,88.2,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,15.9,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,16.4,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,17.1,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,17.7,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,17.7,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,17.8,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,17.8,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,17.3,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,15,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,12.6,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,10.8,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,10.6,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,10.8,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,10.7,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,10.8,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,10.6,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,10.5,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,10.4,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,10.5,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,10.2,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,9.8,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,1179,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,1221.7,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,1238.1,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,1221.4,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,1183.1,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,1225.1,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,1251.6,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,1244.8,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,1292.7,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,1270.2,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,1328.6,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,1310,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,1394,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,1413.1,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,1451,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,1457.9,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,1483.1,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,1498.9,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,1547.2,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,1578.5,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,1574.8,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,1538.5,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,1652.7,X,
+NER,2000-01-01,2002-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,23.2,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,22.3,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,21,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,19.4,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,19,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,19.1,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,18.4,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,17.7,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,16,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,15.9,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,15.3,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,15.6,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,15,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,14.3,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,13.3,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,12.6,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,11.8,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,11.7,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,11,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,12,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,12.5,E,
+NER,2021-01-01,2023-12-31,158,'562,Niger,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,13.3,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,2.8,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,2.8,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,2.7,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,2.6,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,2.6,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,2.7,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,2.7,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,2.7,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,2.6,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,2.7,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,2.6,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,2.8,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,2.8,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,2.8,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,2.7,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,2.6,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,2.6,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,2.6,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,2.6,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,2.9,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,3.2,E,
+NER,2021-01-01,2023-12-31,158,'562,Niger,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,3.5,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,10,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,9.7,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,9.2,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,8.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,7.7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,7.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,8.7,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,8.4,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,7.8,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,7.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,11.4,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,11.1,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,10.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,9.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,8.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,7.9,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,9.8,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,9.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,8.9,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,8,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,7.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,7.3,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,8.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,8.3,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,7.6,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,7,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,6.7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,6.9,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,11.1,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,10.8,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,10.2,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,9.1,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,8.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,7.8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,10.2,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,9.9,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,9.4,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,8.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,8,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,7.6,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,8.8,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,8.5,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,8,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,7.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,7.3,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,7.2,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,11.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,11.3,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,10.8,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,9.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,8.7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,50,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,50,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,50.1,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,50.2,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,50.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,50.3,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,47.4,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,47.4,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,47.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,47.8,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,48.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,48.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,52.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,52.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,52.7,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,52.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,52.3,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,52.1,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,50.3,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,50.2,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,49.9,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,49.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,49.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,49.8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,48,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,47.8,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,47.4,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,47.2,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,47.3,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,47.9,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,52.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,52.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,52.4,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,51.9,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,51.7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,51.8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,49.7,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,49.8,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,50.3,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,50.8,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,51,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,50.8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,46.8,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,47,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,47.6,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,48.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,49.1,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,49.2,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,52.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,52.7,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,53,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,53,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,52.9,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,52.4,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,2.2,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,2.2,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,2.1,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,2,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,2,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.9,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.9,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,1.8,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,1.8,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,1.8,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,1.8,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.5,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,2.5,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,2.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,2.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2.1,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.1,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,0.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.5,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.5,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.4,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.4,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.6,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,0.6,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.5,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.5,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.5,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.5,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.5,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.6,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.6,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.6,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,10.9,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,11.3,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,11.7,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,12.2,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,12.7,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,13.2,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,10.3,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,10.7,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,11.1,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,11.6,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,12.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,12.7,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,11.4,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,11.9,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,12.4,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,12.8,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,13.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,13.7,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,2.8,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,2.9,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,3,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,3.1,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,3.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,3.4,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,2.7,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,2.8,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,2.9,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,3.1,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,3.3,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.9,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,3.1,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,3.2,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,3.4,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,3.5,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,2.7,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,2.8,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,3,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,3.1,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,3.2,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,3.4,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,2.6,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,2.7,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,2.8,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,3.1,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,3.3,A,Official estimate
+NER,2014-01-01,2016-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,,O,
+NER,2015-01-01,2017-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,,O,
+NER,2016-01-01,2018-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,2.9,A,Official estimate
+NER,2017-01-01,2019-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,3,A,Official estimate
+NER,2018-01-01,2020-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,3.1,A,Official estimate
+NER,2019-01-01,2021-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.3,A,Official estimate
+NER,2020-01-01,2022-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,3.4,A,Official estimate
+NER,2021-01-01,2023-12-31,158,'562,Niger,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,3.5,A,Official estimate
+NER,2000-01-01,2002-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,9.4,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,9.1,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,9.2,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,9.8,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,9.9,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,9,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,7.7,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,7.3,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,8.1,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,9.5,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,11.8,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,13.8,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,15,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,15.1,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,12.1,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,8.6,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,7.2,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,11.4,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,16.1,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,23,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,24.6,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.1,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.1,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.1,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.1,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.1,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.1,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.1,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.1,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.1,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.1,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.1,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.1,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.1,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.1,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.1,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,0.1,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,0.1,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,0.1,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,0.2,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,0.2,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,0.2,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,51,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,69,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,70,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,66,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,58,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,44,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,35,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,29,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,27,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,23,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,26,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,28,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,32,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,35,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,38,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,43,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,48,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,54,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,67,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,66,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,69,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,0.12,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,-0.13,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.04,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,-0.51,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,-0.49,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,-0.23,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,-0.46,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,-0.67,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,-1.15,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,-1.16,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,-0.88,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,-1.15,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,-1.32,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,-1.18,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,-1.06,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,-1.1,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,-1.26,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,-1.36,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,-1.4,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,-1.67,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,-1.54,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,-1.47,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,14,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,29,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,29,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,36,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,36,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,34,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,30,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,32,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,30,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,28,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,16,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,41,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,42,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,40,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,40,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,43,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,20,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,26,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,26,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,36,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,26,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,27,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,63,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,63,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,38,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,38,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,39,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,40,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,40,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,41,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,41,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,42,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,42,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,43,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,44,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,44,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,44,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,45,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,45,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,46,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,46,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,47,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,47,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,47,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,48,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,48,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,49,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,3,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,3,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,3,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,4,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,4,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,4,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,4,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,5,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,5,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,5,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,5,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,6,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,6,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,6,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,6,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,6,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,7,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,7,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,7,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,7,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,8,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,8,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,8,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,6,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,6,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,6,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,7,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,8,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,8,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,8,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,9,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,10,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,10,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,10,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,11,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,11,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,12,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,12,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,13,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,13,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,14,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,14,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,15,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,15,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,16,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,16,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,16.2,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,12.5,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,12.5,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,13.8,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,12.5,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,15.8,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,12.5,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+NER,2012-01-01,2012-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,18.2,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,12.4,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,14.2,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,13.6,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,10.4,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,14.1,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,9.8,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,12,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,11.5,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,10.9,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,0.4,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,0.4,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,0.4,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,0.4,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,0.4,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,0.5,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,0.4,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+NER,2012-01-01,2012-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,0.7,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,0.5,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,0.6,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,0.5,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,0.4,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,0.6,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,0.5,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,0.6,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,0.6,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,0.6,X,
+NER,2023-01-01,2023-12-31,158,'562,Niger,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,53.2,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,53,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,52.6,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,52.1,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,51.6,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,51,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,50.5,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,49.9,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,49.2,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,48.5,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,47.8,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,47.1,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,46.6,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,46.1,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,46,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,46,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,46.1,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,46.3,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,46.4,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,46.6,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,46.8,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,47,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,47.4,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,1.3,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,1.3,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,1.3,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,1.4,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,1.4,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,1.4,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,1.5,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,1.5,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,1.6,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,1.6,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,1.6,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,1.7,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,1.7,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,1.7,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,1.8,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,1.8,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,1.9,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,2,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,2.1,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,2.2,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,2.2,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,2.3,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,2.4,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,1.4,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,1.6,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,1.7,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,1.7,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,1.6,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,1.5,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,1.3,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,1.2,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,1,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,1,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,1,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,1,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,1.1,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,1.2,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,1.3,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,1.4,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,1.5,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,1.7,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,1.8,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,2,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,2.2,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,2.4,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,2.7,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,<0.1,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,<0.1,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,<0.1,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,<0.1,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,<0.1,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,<0.1,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,<0.1,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,<0.1,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,<0.1,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,<0.1,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,<0.1,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,<0.1,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,<0.1,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,<0.1,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,<0.1,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.1,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.1,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.1,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.1,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.1,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.1,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,2,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,2.1,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,2.3,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,2.5,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,2.7,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,2.8,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,3,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,3.2,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,3.4,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,3.5,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,3.7,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,3.8,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,3.9,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,4.1,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,4.2,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,4.4,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,4.6,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,4.8,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,5,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,5.2,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,5.4,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,5.7,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,6,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,0.1,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,0.1,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,0.1,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,0.1,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,0.2,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,0.2,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,0.2,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,0.2,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,0.2,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,0.3,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,0.3,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,0.3,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,0.3,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,0.3,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,0.4,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,0.4,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,0.4,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,0.5,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,0.5,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,0.5,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,0.6,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,0.6,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,0.7,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,51.8,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,51.4,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,51,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,50.7,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,50.3,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,50,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,49.8,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,49.6,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,49.4,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,49.2,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,49,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,49,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,49.1,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,49.2,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,49.3,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,49.3,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,49.4,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,49.5,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,49.5,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,49.5,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,1.3,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,1.3,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,1.4,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,1.4,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,1.4,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,1.5,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,1.5,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,1.5,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,1.6,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,1.6,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,1.7,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,1.8,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,1.8,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,1.9,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,2,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,2.1,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,2.1,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,2.2,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,2.3,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,2.4,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,1.1,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,8.5,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,9,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,4.4,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,9.9,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,26.9,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,23.3,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,21.6,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,21.2,X,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,25.6,X,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,24.5,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,,X,
+NER,2001-01-01,2001-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,,X,
+NER,2002-01-01,2002-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,,X,
+NER,2003-01-01,2003-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,,X,
+NER,2004-01-01,2004-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,,X,
+NER,2005-01-01,2005-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,,X,
+NER,2006-01-01,2006-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,,X,
+NER,2007-01-01,2007-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,,X,
+NER,2008-01-01,2008-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,,X,
+NER,2009-01-01,2009-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,,X,
+NER,2010-01-01,2010-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,,X,
+NER,2011-01-01,2011-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,,X,
+NER,2012-01-01,2012-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,,X,
+NER,2013-01-01,2013-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,,X,
+NER,2014-01-01,2014-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,,X,
+NER,2015-01-01,2015-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,,X,
+NER,2016-01-01,2016-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,,X,
+NER,2017-01-01,2017-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,,X,
+NER,2018-01-01,2018-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,,X,
+NER,2019-01-01,2019-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,,X,
+NER,2020-01-01,2020-12-31,158,'562,Niger,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,,X,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1673,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1672,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1670,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1669,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1668,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1667,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1666,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1666,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1665,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1665,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1665,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1664,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1665,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1666,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1666,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1667,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1668,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1668,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1669,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1669,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1670,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1670,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1671,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1672,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2149,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2147,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2145,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2143,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2141,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2140,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2138,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2137,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2137,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2136,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2136,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2136,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2137,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2138,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2139,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2140,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2141,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2142,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2143,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2144,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2145,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2146,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2147,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2148,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.31,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.31,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.31,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.32,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.32,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.32,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.32,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.32,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.32,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.33,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.33,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.33,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.33,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.32,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.32,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.32,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.32,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.32,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.31,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.31,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.31,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.31,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.34,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.34,E,
+NER,2000-01-01,2000-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,2.84,E,
+NER,2001-01-01,2001-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,2.79,E,
+NER,2002-01-01,2002-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,2.92,E,
+NER,2003-01-01,2003-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,2.94,E,
+NER,2004-01-01,2004-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,2.83,E,
+NER,2005-01-01,2005-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,2.88,E,
+NER,2006-01-01,2006-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,2.91,E,
+NER,2007-01-01,2007-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,2.96,E,
+NER,2008-01-01,2008-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,2.94,E,
+NER,2009-01-01,2009-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,2.93,E,
+NER,2010-01-01,2010-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,2.73,E,
+NER,2011-01-01,2011-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,2.76,E,
+NER,2012-01-01,2012-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,2.83,E,
+NER,2013-01-01,2013-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,2.88,E,
+NER,2014-01-01,2014-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,2.93,E,
+NER,2015-01-01,2015-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,2.95,E,
+NER,2016-01-01,2016-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,3,E,
+NER,2017-01-01,2017-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,3.04,E,
+NER,2018-01-01,2018-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,3.03,E,
+NER,2019-01-01,2019-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,3.07,E,
+NER,2020-01-01,2020-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,3.11,E,
+NER,2021-01-01,2021-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,3.12,E,
+NER,2022-01-01,2022-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,3.12,E,
+NER,2023-01-01,2023-12-31,158,'562,Niger,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,3.12,E,
+NER,2000-01-01,2002-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,46.8,E,
+NER,2001-01-01,2003-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,49.3,E,
+NER,2002-01-01,2004-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,51.3,E,
+NER,2003-01-01,2005-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,52.8,E,
+NER,2004-01-01,2006-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,52.8,E,
+NER,2005-01-01,2007-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,52.9,E,
+NER,2006-01-01,2008-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,54.1,E,
+NER,2007-01-01,2009-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,55.3,E,
+NER,2008-01-01,2010-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,56,E,
+NER,2009-01-01,2011-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,55.4,E,
+NER,2010-01-01,2012-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,53.5,E,
+NER,2011-01-01,2013-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,52.4,E,
+NER,2012-01-01,2014-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,52.2,E,
+NER,2013-01-01,2015-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,52.5,E,
+NER,2014-01-01,2016-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,53.2,E,
+NER,2015-01-01,2017-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,52.4,E,
+NER,2016-01-01,2018-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,53.7,E,
+NER,2017-01-01,2019-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,54.6,E,
+NER,2018-01-01,2020-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,56.5,E,
+NER,2019-01-01,2021-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,57.3,E,
+NER,2020-01-01,2022-12-31,158,'562,Niger,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,57.3,E,

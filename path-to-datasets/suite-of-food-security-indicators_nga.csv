@@ -1,0 +1,1112 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,120,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,120,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,121,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,123,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,125,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,126,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,126,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,126,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,123,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,121,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,118,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,117,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,118,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,118,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,118,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,118,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,117,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,116,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,115,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,115,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,114,E,
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,113,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2623,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2626,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2618,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2621,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2668,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2719,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2740,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2736,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2740,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2701,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2572,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2560,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2546,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2521,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2576,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2568,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2558,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2556,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2532,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2540,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2510,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2543,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2504,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2469,E,Imputed value
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,2622,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,2622,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,2636,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,2670,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,2710,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,2732,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,2739,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,2725,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,2669,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,2610,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,2559,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,2542,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,2548,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,2555,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,2567,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,2561,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,2548,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,2543,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,2527,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,2531,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,2519,E,
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,2504,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,64,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,63,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,63,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,63,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,63,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,63,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,64,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,65,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20082010,2010,%,66,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20092011,2011,%,67,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20102012,2012,%,67,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20112013,2013,%,67,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20122014,2014,%,66,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20132015,2015,%,66,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,66,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,66,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,66,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,66,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,66,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,65,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,65,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,58.7,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,58.8,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,59.6,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,60.7,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,62,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,63.3,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,63.8,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,64,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,63.9,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,63.8,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,63.4,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,62.7,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,62.6,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,62.3,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,62.4,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,62.5,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,62.8,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,62.4,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,61.4,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,60.5,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,59.7,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,7.8,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,8.2,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,8.3,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,8.5,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,8.9,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,9.7,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,10.1,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,10.1,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,9.7,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,9.6,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,9.5,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,9.3,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,9.2,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,9.1,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,8.7,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,8.2,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,7.8,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,7.6,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,7.5,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,7.4,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,7.2,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,0.4,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,0.4,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,0.4,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,0.4,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,0.4,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,0.4,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,0.4,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,0.4,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,0.4,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2009,2009,km,0.4,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2010,2010,km,0.4,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,0.4,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2012,2012,km,0.4,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2013,2013,km,0.4,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2014,2014,km,0.4,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2015,2015,km,0.4,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,3385.3,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,3491.8,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,3920.4,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,4096.7,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,4356.6,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,4513.9,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,4660,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,4834.4,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,5022.9,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,5280.6,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,5549,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,5684.2,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,5764,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,5984.9,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,6197.5,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,6202.3,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,5950.9,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,5849.1,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,5814.6,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,5799.3,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,5557.9,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,5623.7,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,5670,X,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,8.8,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,8.8,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,8.5,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,7.8,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,7,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,6.6,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,6.5,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,6.7,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,7.9,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,9.2,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,10.4,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,10.9,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,10.8,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,10.7,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,10.5,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,10.7,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,11.3,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,11.8,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,13.6,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,15.1,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,17,E,
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,18,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,11.1,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,11.4,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,11.3,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,10.7,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,9.9,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,9.5,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,9.6,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,10.2,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,12.4,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,14.9,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,17.3,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,18.6,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,18.9,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,19.2,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,19.3,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,20.3,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,22,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,23.4,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,27.7,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,31.6,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,36.3,E,
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,39.4,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,11,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,12.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,13.6,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,15.1,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,17.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,19.8,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,21.3,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,22.6,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,10.3,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,11,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,11.9,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,12.9,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,14.9,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,17.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,19.3,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21.1,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,11.8,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,13.5,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,15.3,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,17.3,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,19.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,21.9,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,23.2,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,24,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,12.1,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,13.9,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,14.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,15.3,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,16.9,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,19.5,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,21,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,22.6,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,11.3,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,12.6,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,12.9,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,13.2,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,14.6,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,17.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,19.2,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21.2,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,12.9,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,15.2,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,16.5,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,17.5,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,19.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,21.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,22.9,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,23.9,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,10,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,10.7,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,12.5,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,14.8,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,17.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,20,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,21.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,22.6,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,9.2,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,9.5,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,10.8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,12.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,15.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,17.7,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,19.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,21.1,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,10.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,11.9,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,14.2,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,17,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,20.2,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,22.3,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,23.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,24.1,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,34.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,38.7,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,42.8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,47.1,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,53.5,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,62.9,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,69.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,73.9,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,32,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,35.7,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,39.5,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,43.5,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,50.1,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,60.1,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,67.3,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,71.8,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,37.4,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,41.7,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,46.1,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,50.7,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,56.9,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,65.8,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,72,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,75.9,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,35.2,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,39.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,43.1,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,46.1,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,51.7,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,61.3,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,68.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,73.6,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,32.5,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,36.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,39.8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,42.4,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,48.1,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,58.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,66.3,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,71.7,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,38,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,42.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,46.4,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,49.7,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,55.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,64.2,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,71.1,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,75.6,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,34.1,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,38.1,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,42.6,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,48.1,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,55.4,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,64.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,70.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,74.1,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,31.5,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,35.1,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,39.3,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,44.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,52.2,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,61.8,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,68.4,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,72,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,36.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,41,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,45.8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,51.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,58.6,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,67.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,73,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,76.2,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,20.3,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,23.2,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,26.3,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,29.9,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,35.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,41.2,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,45.4,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,49.4,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,18.9,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,20.8,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,23,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,25.5,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,30.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,36.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,41.3,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,46.2,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,21.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,25.5,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,29.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,34.2,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,40.2,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,45.7,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,49.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,52.5,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,6.2,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,7.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,8.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,9.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,11.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,12.8,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,14.2,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,5.8,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,6.7,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,7.4,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,8.4,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,10.3,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,11.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,13.3,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,6.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,8,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,9,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,9.8,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,11.1,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,12.8,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,14,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,15,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,5.1,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,5.6,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,6.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,8.2,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,10.1,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,11.7,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,12.9,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,14,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,4.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,4.9,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,5.8,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,7,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,8.7,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,10.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,11.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,13,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,5.4,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,6.2,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,7.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,9.4,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,11.5,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,13,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,14.1,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,14.9,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,63.8,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,73,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,82.9,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,93.4,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,108.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,131.2,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,148.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,161.4,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,58.9,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,67.3,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,76.5,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,86.3,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,102,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,125.2,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,143.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,157,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,68.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,78.6,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,89.3,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,100.5,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,115.7,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,137.1,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,153.7,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,165.9,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,18.1,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,20.8,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,23.5,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,25.8,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,29.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,36.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,41.9,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,46.2,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,16.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,19.2,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,21.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,23.7,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,27.7,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,34.6,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,40.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,45,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,19.6,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,22.4,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,25.3,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,27.9,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,31.8,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,38.1,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,43.4,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,47.5,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,17.4,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,19.9,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,22.9,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,26.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,31.5,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,37.8,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,42.5,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,45.8,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,16.1,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,18.4,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,21.1,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,24.7,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,29.7,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,36.1,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,41.1,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,44.4,A,Official estimate integrated with FAO data
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,18.7,A,Official estimate integrated with FAO data
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,21.5,A,Official estimate integrated with FAO data
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,24.7,A,Official estimate integrated with FAO data
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,28.6,A,Official estimate integrated with FAO data
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,33.3,A,Official estimate integrated with FAO data
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,39.4,A,Official estimate integrated with FAO data
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,43.9,A,Official estimate integrated with FAO data
+NGA,2021-01-01,2023-12-31,159,'566,Nigeria,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,47.1,A,Official estimate integrated with FAO data
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,15.2,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,16,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,15.5,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,16.4,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,16.1,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,16.4,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,15.1,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,15.7,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20082010,2010,%,17.7,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20092011,2011,%,22.2,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20102012,2012,%,24.1,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20112013,2013,%,26.4,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20122014,2014,%,24.8,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20132015,2015,%,23.5,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,18.8,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,18,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,16.8,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,17.8,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,17.4,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,18.4,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,17.8,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,0.3,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,0.3,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,0.3,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,0.3,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,0.3,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,0.3,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,0.3,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,0.4,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,0.4,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,0.4,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,0.4,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,0.4,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,0.4,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,0.4,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,0.4,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,0.4,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,0.4,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,0.4,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,0.4,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,0.4,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,0.4,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,7,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,8,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,8,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,6,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,6,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,6,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,6,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,6,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,6,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,7,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,6,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,7,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,7,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,9,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,10,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,14,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,12,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,10,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,9,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,10,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,11,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,-1.46,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,-1.63,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,-1.64,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,-1.75,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,-1.67,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,-2.03,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,-2.01,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,-1.86,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,-1.99,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,-2.21,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,-1.96,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,-2.04,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,-2.09,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,-2.13,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,-1.92,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,-1.87,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,-2,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,-2.1,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,-1.93,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,-1.89,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,-1.79,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,-1.8,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,14,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,20,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,26,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,30,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,23,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,19,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,43,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,58,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,56,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,38,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,16,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,60,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,73,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,73,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,54,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,27,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,35,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,37,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,35,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,7,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,8,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,9,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,16,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,17,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,13,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,13,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,14,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,15,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,16,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,16,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,17,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,18,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,19,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,20,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,21,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,22,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,23,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,24,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,24,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,25,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,26,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,26,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,27,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,27,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,28,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,28,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,29,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,44,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,46,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,47,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,49,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,50,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,52,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,54,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,55,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,57,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,58,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,60,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,62,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,63,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,65,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,67,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,68,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,70,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,72,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,73,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,75,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,76,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,78,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,80,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,21,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,21,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,21,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,22,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,22,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,22,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,23,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,23,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,24,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,24,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,25,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,25,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,26,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,26,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,27,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,28,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,28,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,29,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,29,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,30,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,31,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,31,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,32,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,28,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,28,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,29,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,29,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,30,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,31,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,32,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,32,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,33,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,34,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,35,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,36,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,36,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,37,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,38,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,39,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,40,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,41,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,42,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,43,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,44,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,45,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,47,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,11.2,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,10.2,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,7.9,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,7.3,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,10.8,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,6.8,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,6.5,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,2.6,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,3,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,2.5,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,2.3,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,3.5,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,2.3,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,2.2,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,41.7,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,41.6,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,41.4,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,41.3,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,41.1,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,40.9,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,40.7,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,40.4,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,40,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,39.4,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,38.8,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,38.2,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,37.7,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,37.3,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,36.9,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,36.7,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,36.4,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,36.2,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,35.8,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,35.4,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,35,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,34.5,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,34.2,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,8.9,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,9.2,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,9.4,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,9.7,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,10,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,10.2,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,10.5,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,10.7,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,10.9,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,11,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,11.1,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,11.2,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,11.4,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,11.5,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,11.6,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,11.7,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,11.8,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,11.8,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,11.9,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,11.9,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,12,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,12,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,12.1,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,5.6,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,6.2,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,6.7,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,6.8,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,6.3,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,5.6,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,4.7,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,3.9,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,3.3,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,3,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,2.7,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,2.6,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,2.5,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,2.5,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,2.4,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,2.4,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,2.3,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,2.3,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,2.2,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,2.2,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,2.2,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,2.2,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,2.2,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,1.2,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,1.4,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,1.5,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,1.6,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,1.5,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,1.4,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,1.2,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,1,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.9,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.8,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.8,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.8,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.8,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.8,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.8,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.7,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.7,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.7,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.7,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.7,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.8,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.8,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.8,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,4.7,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,5.1,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,5.4,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,5.8,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,6.1,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,6.5,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,6.9,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,7.2,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,7.5,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,7.8,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,8.1,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,8.4,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,8.7,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,8.9,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,9.2,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,9.5,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,9.9,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,10.2,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,10.6,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,11,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,11.4,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,11.9,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,12.4,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,2.9,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,3.2,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,3.5,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,3.9,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,4.2,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,4.6,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,5,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,5.3,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,5.7,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,6.1,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,6.5,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,6.9,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,7.3,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,7.7,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,8.2,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,8.7,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,9.2,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,9.8,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,10.5,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,11.2,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,11.9,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,12.8,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,13.6,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,58.8,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,58.5,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,58.2,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,57.9,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,57.5,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,57.1,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,56.7,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,56.3,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,55.9,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,55.6,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,55.3,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,55.1,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,54.9,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,54.9,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,54.9,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,54.9,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,54.9,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,54.9,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,55,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,55.1,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,16.5,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,16.8,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,17.2,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,17.6,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,17.9,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,18.3,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,18.6,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,18.9,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,19.2,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,19.6,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,20.1,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,20.5,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,20.9,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,21.5,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,22.1,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,22.7,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,23.3,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,24,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,24.7,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,25.5,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,15.6,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,11.5,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,12.5,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,14.7,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,16.9,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,23.3,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,28.7,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,34.4,X,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,,X,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,,X,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,,X,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,,X,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,,X,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,,X,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,,X,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,,X,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,,X,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,,X,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,,X,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,,X,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,,X,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,,X,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,,X,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,,X,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,,X,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,,X,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,,X,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,,X,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,,X,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1693,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1692,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1692,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1691,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1689,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1688,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1687,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1686,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1685,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1684,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1684,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1684,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1685,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1685,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1687,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1688,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1690,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1693,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1707,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1709,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1711,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1714,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1716,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1719,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2180,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2179,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2178,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2176,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2174,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2172,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2170,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2168,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2167,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2166,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2165,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2165,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2166,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2167,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2169,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2171,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2174,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2177,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2196,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2199,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2203,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2206,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2210,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2214,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.28,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.28,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.28,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.28,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.28,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.28,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.28,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.28,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.28,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.28,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.28,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.28,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.28,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.28,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.28,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.28,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.28,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.28,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.28,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.28,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.32,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.33,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.33,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.33,E,
+NGA,2000-01-01,2000-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,3.19,E,
+NGA,2001-01-01,2001-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,3.16,E,
+NGA,2002-01-01,2002-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,3.11,E,
+NGA,2003-01-01,2003-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,3.14,E,
+NGA,2004-01-01,2004-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,3.2,E,
+NGA,2005-01-01,2005-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,3.15,E,
+NGA,2006-01-01,2006-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,3.21,E,
+NGA,2007-01-01,2007-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,3.21,E,
+NGA,2008-01-01,2008-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,3.16,E,
+NGA,2009-01-01,2009-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,3.18,E,
+NGA,2010-01-01,2010-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,3.46,E,
+NGA,2011-01-01,2011-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,3.48,E,
+NGA,2012-01-01,2012-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,3.46,E,
+NGA,2013-01-01,2013-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,3.44,E,
+NGA,2014-01-01,2014-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,3.49,E,
+NGA,2015-01-01,2015-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,3.47,E,
+NGA,2016-01-01,2016-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,3.46,E,
+NGA,2017-01-01,2017-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,3.42,E,
+NGA,2018-01-01,2018-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,3.42,E,
+NGA,2019-01-01,2019-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,3.39,E,
+NGA,2020-01-01,2020-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,3.39,E,
+NGA,2021-01-01,2021-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,3.37,E,
+NGA,2022-01-01,2022-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,3.37,E,
+NGA,2023-01-01,2023-12-31,159,'566,Nigeria,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,3.37,E,
+NGA,2000-01-01,2002-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,61.7,E,
+NGA,2001-01-01,2003-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,63.1,E,
+NGA,2002-01-01,2004-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,64,E,
+NGA,2003-01-01,2005-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,65.1,E,
+NGA,2004-01-01,2006-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,66.4,E,
+NGA,2005-01-01,2007-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,66.7,E,
+NGA,2006-01-01,2008-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,66.2,E,
+NGA,2007-01-01,2009-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,62.9,E,
+NGA,2008-01-01,2010-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20082010,2010,g/cap/d,59.3,E,
+NGA,2009-01-01,2011-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20092011,2011,g/cap/d,56,E,
+NGA,2010-01-01,2012-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20102012,2012,g/cap/d,55.4,E,
+NGA,2011-01-01,2013-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20112013,2013,g/cap/d,55.1,E,
+NGA,2012-01-01,2014-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20122014,2014,g/cap/d,56.2,E,
+NGA,2013-01-01,2015-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20132015,2015,g/cap/d,56.8,E,
+NGA,2014-01-01,2016-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,57.7,E,
+NGA,2015-01-01,2017-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,58,E,
+NGA,2016-01-01,2018-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,58.2,E,
+NGA,2017-01-01,2019-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,58.5,E,
+NGA,2018-01-01,2020-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,57.9,E,
+NGA,2019-01-01,2021-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,57.8,E,
+NGA,2020-01-01,2022-12-31,159,'566,Nigeria,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,57.7,E,

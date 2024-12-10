@@ -1,0 +1,1088 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20002002,2002,%,136,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20012003,2003,%,137,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20022004,2004,%,138,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20032005,2005,%,138,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20042006,2006,%,139,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20052007,2007,%,140,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20062008,2008,%,141,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20072009,2009,%,142,E,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20082010,2010,%,141,E,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20092011,2011,%,141,E,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20102012,2012,%,141,E,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20112013,2013,%,141,E,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20122014,2014,%,140,E,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20132015,2015,%,140,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20142016,2016,%,140,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20152017,2017,%,140,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20162018,2018,%,141,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20172019,2019,%,142,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20182020,2020,%,143,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20192021,2021,%,143,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20202022,2022,%,144,E,
+DEU,2021-01-01,2023-12-31,79,'276,Germany,21010,Average dietary energy supply adequacy (percent) (3-year average),6121,Value,20212023,2023,%,144,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,3423,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,3451,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,3517,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,3480,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,3503,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,3544,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,3562,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,3627,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,3617,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,3614,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,3596,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,3627,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,3578,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,3566,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,3556,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,3591,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,3576,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,3568,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,3607,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,3635,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,3642,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,3634,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,3657,E,Imputed value
+DEU,2023-01-01,2023-12-31,79,'276,Germany,220001,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,3662,E,Imputed value
+DEU,2000-01-01,2002-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20002002,2002,kcal/cap/d,3464,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20012003,2003,kcal/cap/d,3483,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20022004,2004,kcal/cap/d,3500,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20032005,2005,kcal/cap/d,3509,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20042006,2006,kcal/cap/d,3536,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20052007,2007,kcal/cap/d,3578,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20062008,2008,kcal/cap/d,3602,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20072009,2009,kcal/cap/d,3619,E,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20082010,2010,kcal/cap/d,3609,E,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20092011,2011,kcal/cap/d,3612,E,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20102012,2012,kcal/cap/d,3600,E,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20112013,2013,kcal/cap/d,3590,E,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20122014,2014,kcal/cap/d,3567,E,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20132015,2015,kcal/cap/d,3571,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20142016,2016,kcal/cap/d,3574,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20152017,2017,kcal/cap/d,3578,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20162018,2018,kcal/cap/d,3584,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20172019,2019,kcal/cap/d,3603,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20182020,2020,kcal/cap/d,3628,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20192021,2021,kcal/cap/d,3637,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20202022,2022,kcal/cap/d,3644,E,
+DEU,2021-01-01,2023-12-31,79,'276,Germany,22000,Dietary energy supply used in the estimation of prevalence of undernourishment (kcal/cap/day) (3-year average),6128,Value,20212023,2023,kcal/cap/d,3651,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20002002,2002,%,28,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20012003,2003,%,29,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20022004,2004,%,29,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20032005,2005,%,28,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20042006,2006,%,28,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20052007,2007,%,28,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20062008,2008,%,28,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20072009,2009,%,28,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20142016,2016,%,27,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20152017,2017,%,27,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20162018,2018,%,27,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20172019,2019,%,26,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20182020,2020,%,25,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20192021,2021,%,24,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21012,"Share of dietary energy supply derived from cereals, roots and tubers (percent) (3-year average)",6121,Value,20202022,2022,%,24,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,97.1,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,98.3,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,97.9,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,97.2,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,97.6,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,99.5,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,101,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,102.1,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,110.1,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,110.1,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,110.3,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,110.6,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,111.1,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,110.8,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21013,Average protein supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,110,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,57.6,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,58.6,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,58.6,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,58.7,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,58.8,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,60,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,61,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,61.9,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,70,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,69.9,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,70.1,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,71.4,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,72.9,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,73.6,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21014,Average supply of protein of animal origin (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,73,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2000,2000,km,10.3,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2001,2001,km,10.1,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2002,2002,km,10,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2003,2003,km,10.1,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2004,2004,km,9.7,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2005,2005,km,9.6,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2006,2006,km,9.6,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2007,2007,km,9.5,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2008,2008,km,9.5,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2009,2009,km,9.4,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2010,2010,km,9.4,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2011,2011,km,9.4,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2012,2012,km,9.4,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2013,2013,km,9.4,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2014,2014,km,9.4,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2015,2015,km,9.3,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2016,2016,km,9.3,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2017,2017,km,9.4,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2018,2018,km,9.4,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2019,2019,km,9.3,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2020,2020,km,9.3,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21016,Rail lines density (total route in km per 100 square km of land area),6124,Value,2021,2021,km,9.3,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2000,2000,Int$/cap,49797.3,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2001,2001,Int$/cap,50549.5,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2002,2002,Int$/cap,50364.6,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2003,2003,Int$/cap,49984.4,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2004,2004,Int$/cap,50582.7,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2005,2005,Int$/cap,50981.8,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2006,2006,Int$/cap,52987.2,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2007,2007,Int$/cap,54637.3,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2008,2008,Int$/cap,55266.8,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2009,2009,Int$/cap,52252.2,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2010,2010,Int$/cap,54519.7,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2011,2011,Int$/cap,57719.8,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2012,2012,Int$/cap,57852.7,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2013,2013,Int$/cap,57947.5,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2014,2014,Int$/cap,58981.5,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2015,2015,Int$/cap,59345.5,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2016,2016,Int$/cap,60181.1,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2017,2017,Int$/cap,61563.6,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2018,2018,Int$/cap,61981.1,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2019,2019,Int$/cap,62506.6,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2020,2020,Int$/cap,60065.5,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2021,2021,Int$/cap,61939.7,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",6126,Value,2022,2022,Int$/cap,62605.5,X,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20002002,2002,%,<2.5,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20012003,2003,%,<2.5,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20022004,2004,%,<2.5,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20032005,2005,%,<2.5,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20042006,2006,%,<2.5,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20052007,2007,%,<2.5,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20062008,2008,%,<2.5,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20072009,2009,%,<2.5,E,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20082010,2010,%,<2.5,E,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20092011,2011,%,<2.5,E,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20102012,2012,%,<2.5,E,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20112013,2013,%,<2.5,E,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20122014,2014,%,<2.5,E,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20132015,2015,%,<2.5,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20142016,2016,%,<2.5,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20152017,2017,%,<2.5,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20162018,2018,%,<2.5,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20172019,2019,%,<2.5,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20182020,2020,%,<2.5,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20192021,2021,%,<2.5,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20202022,2022,%,<2.5,E,
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210041,Prevalence of undernourishment (percent) (3-year average),6121,Value,20212023,2023,%,<2.5,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20002002,2002,million No,,Q,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20012003,2003,million No,,Q,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20022004,2004,million No,,Q,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20032005,2005,million No,,Q,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20042006,2006,million No,,Q,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20052007,2007,million No,,Q,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20062008,2008,million No,,Q,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20072009,2009,million No,,Q,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20082010,2010,million No,,Q,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20092011,2011,million No,,Q,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20102012,2012,million No,,Q,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20112013,2013,million No,,Q,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20122014,2014,million No,,Q,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20132015,2015,million No,,Q,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20142016,2016,million No,,Q,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20152017,2017,million No,,Q,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20162018,2018,million No,,Q,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20172019,2019,million No,,Q,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20182020,2020,million No,,Q,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20192021,2021,million No,,Q,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20202022,2022,million No,,Q,
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210011,Number of people undernourished (million) (3-year average),6132,Value,20212023,2023,million No,,Q,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,0.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,0.7,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,0.7,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,0.7,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,1.1,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,1.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,1.5,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,<0.5,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,<0.5,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,0.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.5,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1.2,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.7,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401,Prevalence of severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,2.5,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,0.8,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,0.9,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,0.9,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,0.8,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,0.9,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,1.1,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,<0.5,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,<0.5,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,0.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.3,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.4,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,1.4,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,1.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,1.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,2.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401M,Prevalence of severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,3.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,1.1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,0.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,0.6,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,0.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,0.6,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,1,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,1.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,1,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,0.6,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,<0.5,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,<0.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,<0.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,<0.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,<0.5,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,0.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,0.5,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,1.7,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,1.1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,0.8,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,0.8,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,0.9,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,1.5,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,1.8,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210401F,Prevalence of severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,1.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20142016,2016,%,4.1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20152017,2017,%,3.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20162018,2018,%,3.6,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20172019,2019,%,3.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20182020,2020,%,3.4,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20192021,2021,%,3.5,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20202022,2022,%,3.8,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),6121,Value,20212023,2023,%,4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,3,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,2.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,2.7,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,2.7,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.4,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,2.3,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,2.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,2.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,4.7,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,4.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,4.4,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,4.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,4.6,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,5.3,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091,Prevalence of moderate or severe food insecurity in the total population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,5.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20142016,2016,%,3.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20152017,2017,%,3.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20162018,2018,%,4.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20172019,2019,%,4.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20182020,2020,%,3.7,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20192021,2021,%,3.6,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20202022,2022,%,4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),6121,Value,20212023,2023,%,4.7,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,2.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,2.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,3.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,2.4,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,2.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,2.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,4.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,4.9,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,5.2,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,5.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,4.9,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,4.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,5.7,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091M,Prevalence of moderate or severe food insecurity in the male adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,6.7,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20142016,2016,%,4.7,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20152017,2017,%,3.7,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20162018,2018,%,3.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20172019,2019,%,3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20182020,2020,%,3.1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20192021,2021,%,3.3,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20202022,2022,%,3.7,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),6121,Value,20212023,2023,%,3.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20142016,2016,%,3.6,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20152017,2017,%,2.8,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20162018,2018,%,2.4,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20172019,2019,%,2.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20182020,2020,%,2.2,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20192021,2021,%,2.3,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20202022,2022,%,2.5,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61211,Confidence interval: Lower bound,20212023,2023,%,2.3,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20142016,2016,%,5.8,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20152017,2017,%,4.5,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20162018,2018,%,3.8,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20172019,2019,%,3.7,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20182020,2020,%,4.1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20192021,2021,%,4.4,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20202022,2022,%,4.9,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210091F,Prevalence of moderate or severe food insecurity in the female adult population (percent) (3-year average),61212,Confidence interval: Upper bound,20212023,2023,%,4.5,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,0.8,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,0.7,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,0.6,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,0.6,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,0.6,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,0.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,1.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,1.3,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.4,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.3,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.2,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.3,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.5,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.5,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.2,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.9,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.9,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.4,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.8,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071,Number of severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.1,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,0.3,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,0.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,0.3,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,0.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,0.3,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,0.4,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,0.6,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,0.7,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.1,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.5,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.5,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.7,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.9,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071M,Number of severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1.2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,0.4,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,0.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,0.2,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,0.2,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,0.2,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,0.4,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,0.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,0.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.2,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,0.2,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,<0.1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.2,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,0.6,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,0.4,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,0.3,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,0.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,0.3,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,0.6,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,0.7,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210071F,Number of severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,0.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20142016,2016,million No,3.3,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20152017,2017,million No,3.1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20162018,2018,million No,3,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20172019,2019,million No,2.9,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20182020,2020,million No,2.8,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20192021,2021,million No,2.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20202022,2022,million No,3.2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),6132,Value,20212023,2023,million No,3.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,2.5,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,2.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,2.3,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,2.2,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,2,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,2,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,4.2,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,3.9,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,3.7,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,3.7,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,3.7,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,3.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,4.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081,Number of moderately or severely food insecure people (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,4.7,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20142016,2016,million No,1.2,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20152017,2017,million No,1.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20162018,2018,million No,1.5,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20172019,2019,million No,1.4,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20182020,2020,million No,1.3,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20192021,2021,million No,1.3,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20202022,2022,million No,1.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),6132,Value,20212023,2023,million No,1.6,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,0.9,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,1.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,1.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.9,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.8,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.8,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.9,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,1.5,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1.7,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.8,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.8,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.7,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.7,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,2,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081M,Number of moderately or severely food insecure male adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,2.4,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20142016,2016,million No,1.7,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20152017,2017,million No,1.3,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20162018,2018,million No,1.1,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20172019,2019,million No,1.1,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20182020,2020,million No,1.1,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20192021,2021,million No,1.2,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20202022,2022,million No,1.4,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),6132,Value,20212023,2023,million No,1.2,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20142016,2016,million No,1.3,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20152017,2017,million No,1,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20162018,2018,million No,0.9,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20172019,2019,million No,0.8,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20182020,2020,million No,0.8,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20192021,2021,million No,0.9,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20202022,2022,million No,0.9,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61321,Confidence interval: Lower bound,20212023,2023,million No,0.8,A,FAO data
+DEU,2014-01-01,2016-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20142016,2016,million No,2.1,A,FAO data
+DEU,2015-01-01,2017-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20152017,2017,million No,1.7,A,FAO data
+DEU,2016-01-01,2018-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20162018,2018,million No,1.4,A,FAO data
+DEU,2017-01-01,2019-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20172019,2019,million No,1.3,A,FAO data
+DEU,2018-01-01,2020-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20182020,2020,million No,1.5,A,FAO data
+DEU,2019-01-01,2021-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20192021,2021,million No,1.6,A,FAO data
+DEU,2020-01-01,2022-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20202022,2022,million No,1.8,A,FAO data
+DEU,2021-01-01,2023-12-31,79,'276,Germany,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),61322,Confidence interval: Upper bound,20212023,2023,million No,1.6,A,FAO data
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20002002,2002,%,-24.2,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20012003,2003,%,-20.1,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20022004,2004,%,-16.8,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20032005,2005,%,-15.4,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20042006,2006,%,-14.6,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20052007,2007,%,-12.8,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20062008,2008,%,-11,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20072009,2009,%,-9.4,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20142016,2016,%,-7.9,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20152017,2017,%,-7.5,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20162018,2018,%,-1.8,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20172019,2019,%,3.9,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20182020,2020,%,4.5,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20192021,2021,%,1.6,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21035,Cereal import dependency ratio (percent) (3-year average),6121,Value,20202022,2022,%,-0.1,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20002002,2002,%,1.4,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20012003,2003,%,1.4,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20022004,2004,%,1.4,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20032005,2005,%,1.4,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20042006,2006,%,1.5,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20052007,2007,%,1.5,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20062008,2008,%,1.6,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20072009,2009,%,1.7,E,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20082010,2010,%,1.8,E,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20092011,2011,%,1.9,E,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20102012,2012,%,1.9,E,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20112013,2013,%,2,E,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20122014,2014,%,2,E,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20132015,2015,%,2,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20142016,2016,%,2,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20152017,2017,%,1.9,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20162018,2018,%,1.9,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20172019,2019,%,1.9,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20182020,2020,%,1.9,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20192021,2021,%,1.9,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21034,Percent of arable land equipped for irrigation (percent) (3-year average),6121,Value,20202022,2022,%,1.9,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20002002,2002,%,5,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20012003,2003,%,5,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20022004,2004,%,5,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20032005,2005,%,5,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20042006,2006,%,4,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20052007,2007,%,4,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20062008,2008,%,5,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20072009,2009,%,5,E,
+DEU,2008-01-01,2010-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20082010,2010,%,5,E,
+DEU,2009-01-01,2011-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20092011,2011,%,5,E,
+DEU,2010-01-01,2012-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20102012,2012,%,5,E,
+DEU,2011-01-01,2013-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20112013,2013,%,5,E,
+DEU,2012-01-01,2014-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20122014,2014,%,5,E,
+DEU,2013-01-01,2015-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20132015,2015,%,5,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20142016,2016,%,5,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20152017,2017,%,5,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20162018,2018,%,5,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20172019,2019,%,5,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20182020,2020,%,5,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20192021,2021,%,5,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21033,Value of food imports in total merchandise exports (percent) (3-year average),6121,Value,20202022,2022,%,6,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2000,2000,,1.41,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2002,2002,,1.1,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2003,2003,,0.58,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2004,2004,,0.64,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2005,2005,,0.89,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2006,2006,,1.03,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2007,2007,,1,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2008,2008,,0.94,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2009,2009,,0.86,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2010,2010,,0.8,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2011,2011,,0.84,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2012,2012,,0.78,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2013,2013,,0.93,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2014,2014,,0.93,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2015,2015,,0.69,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2016,2016,,0.67,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2017,2017,,0.57,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2018,2018,,0.58,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2019,2019,,0.55,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2020,2020,,0.64,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2021,2021,,0.73,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21032,Political stability and absence of violence/terrorism (index),6125,Value,2022,2022,,0.61,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,69,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,59,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,34,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,29,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,29,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,22,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,23,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,23,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,37,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,35,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,25,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,23,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,19,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,25,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,31,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,33,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,31,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,13,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,13,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,17,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,22,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,26,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,24,E,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,21031,Per capita food supply variability (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,11,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2000,2000,%,99,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2001,2001,%,99,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2002,2002,%,99,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2003,2003,%,99,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2004,2004,%,99,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2005,2005,%,99,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2006,2006,%,99,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2007,2007,%,99,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2008,2008,%,99,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2009,2009,%,99,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2010,2010,%,99,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2011,2011,%,99,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2012,2012,%,99,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2013,2013,%,99,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2014,2014,%,99,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2015,2015,%,99,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2016,2016,%,99,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2017,2017,%,99,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2018,2018,%,99,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2019,2019,%,99,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2020,2020,%,99,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2021,2021,%,99,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21045,Percentage of population using safely managed drinking water services (percent),6121,Value,2022,2022,%,99,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2000,2000,%,99,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2001,2001,%,99,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2002,2002,%,99,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2003,2003,%,99,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2004,2004,%,99,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2005,2005,%,99,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2006,2006,%,99,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2007,2007,%,99,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2008,2008,%,99,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2009,2009,%,99,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2010,2010,%,99,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2011,2011,%,99,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2012,2012,%,99,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2013,2013,%,99,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2014,2014,%,99,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2015,2015,%,99,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2016,2016,%,99,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2017,2017,%,99,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2018,2018,%,99,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2019,2019,%,99,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2020,2020,%,99,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2021,2021,%,99,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21047,Percentage of population using at least basic drinking water services (percent),6121,Value,2022,2022,%,99,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2000,2000,%,96,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2001,2001,%,96,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2002,2002,%,96,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2003,2003,%,96,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2004,2004,%,96,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2005,2005,%,96,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2006,2006,%,96,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2007,2007,%,96,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2008,2008,%,96,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2009,2009,%,96,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2010,2010,%,96,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2011,2011,%,96,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2012,2012,%,96,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2013,2013,%,97,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2014,2014,%,97,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2015,2015,%,97,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2016,2016,%,97,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2017,2017,%,97,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2018,2018,%,97,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2019,2019,%,97,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2020,2020,%,97,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2021,2021,%,97,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21046,Percentage of population using safely managed sanitation services (percent),6121,Value,2022,2022,%,97,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2000,2000,%,99,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2001,2001,%,99,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2002,2002,%,99,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2003,2003,%,99,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2004,2004,%,99,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2005,2005,%,99,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2006,2006,%,99,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2007,2007,%,99,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2008,2008,%,99,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2009,2009,%,99,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2010,2010,%,99,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2011,2011,%,99,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2012,2012,%,99,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2013,2013,%,99,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2014,2014,%,99,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2015,2015,%,99,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2016,2016,%,99,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2017,2017,%,99,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2018,2018,%,99,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2019,2019,%,99,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2020,2020,%,99,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2021,2021,%,99,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21048,Percentage of population using at least basic sanitation services (percent),6121,Value,2022,2022,%,99,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2000,2000,%,,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2001,2001,%,,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2002,2002,%,,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2003,2003,%,,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2004,2004,%,1,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2005,2005,%,,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2006,2006,%,,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2007,2007,%,,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2008,2008,%,,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2009,2009,%,,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2010,2010,%,,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2011,2011,%,,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2012,2012,%,,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2013,2013,%,,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2014,2014,%,,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2015,2015,%,,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2016,2016,%,0.4,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2017,2017,%,,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2018,2018,%,,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2019,2019,%,,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2020,2020,%,,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2021,2021,%,,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21026,Percentage of children under 5 years affected by wasting (percent),6121,Value,2022,2022,%,,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2000,2000,million No,,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2001,2001,million No,,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2002,2002,million No,,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2003,2003,million No,,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2004,2004,million No,<0.1,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2005,2005,million No,,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2006,2006,million No,,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2007,2007,million No,,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2008,2008,million No,,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2009,2009,million No,,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2010,2010,million No,,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2011,2011,million No,,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2012,2012,million No,,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2013,2013,million No,,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2014,2014,million No,,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2015,2015,million No,,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2016,2016,million No,<0.1,X,This estimate has been adjusted because the original estimate did not cover the full age range or the data source was only representative of rural areas.
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2017,2017,million No,,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2018,2018,million No,,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2019,2019,million No,,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2020,2020,million No,,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2021,2021,million No,,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2022,2022,million No,,X,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,210260,Number of children under 5 years affected by wasting (million),6132,Value,2023,2023,million No,,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2000,2000,%,1.2,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2001,2001,%,1.2,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2002,2002,%,1.2,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2003,2003,%,1.2,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2004,2004,%,1.2,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2005,2005,%,1.2,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2006,2006,%,1.3,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2007,2007,%,1.3,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2008,2008,%,1.4,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2009,2009,%,1.4,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2010,2010,%,1.4,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2011,2011,%,1.5,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2012,2012,%,1.5,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2013,2013,%,1.6,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2014,2014,%,1.6,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2015,2015,%,1.7,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2016,2016,%,1.8,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2017,2017,%,1.8,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2018,2018,%,1.9,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2019,2019,%,2,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2020,2020,%,2,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2021,2021,%,2.1,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21025,Percentage of children under 5 years of age who are stunted (modelled estimates) (percent),6121,Value,2022,2022,%,2.1,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2000,2000,million No,<0.1,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2001,2001,million No,<0.1,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2002,2002,million No,<0.1,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2003,2003,million No,<0.1,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2004,2004,million No,<0.1,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2005,2005,million No,<0.1,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2006,2006,million No,<0.1,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2007,2007,million No,<0.1,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2008,2008,million No,<0.1,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2009,2009,million No,<0.1,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2010,2010,million No,<0.1,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2011,2011,million No,0.1,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2012,2012,million No,0.1,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2013,2013,million No,0.1,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2014,2014,million No,0.1,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2015,2015,million No,0.1,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2016,2016,million No,0.1,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2017,2017,million No,0.1,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2018,2018,million No,0.1,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2019,2019,million No,0.1,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2020,2020,million No,0.1,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,210250,Number of children under 5 years of age who are stunted (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2000,2000,%,3.9,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2001,2001,%,3.9,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2002,2002,%,3.8,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2003,2003,%,3.8,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2004,2004,%,3.7,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2005,2005,%,3.7,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2006,2006,%,3.6,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2007,2007,%,3.6,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2008,2008,%,3.5,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2009,2009,%,3.5,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2010,2010,%,3.5,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2011,2011,%,3.4,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2012,2012,%,3.4,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2013,2013,%,3.3,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2014,2014,%,3.3,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2015,2015,%,3.3,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2016,2016,%,3.2,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2017,2017,%,3.2,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2018,2018,%,3.2,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2019,2019,%,3.1,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2020,2020,%,3.1,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2021,2021,%,3.1,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21041,Percentage of children under 5 years of age who are overweight (modelled estimates) (percent),6121,Value,2022,2022,%,3.1,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2000,2000,million No,0.2,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2001,2001,million No,0.2,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2002,2002,million No,0.1,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2003,2003,million No,0.1,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2004,2004,million No,0.1,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2005,2005,million No,0.1,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2006,2006,million No,0.1,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2007,2007,million No,0.1,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2008,2008,million No,0.1,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2009,2009,million No,0.1,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2010,2010,million No,0.1,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2011,2011,million No,0.1,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2012,2012,million No,0.1,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2013,2013,million No,0.1,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2014,2014,million No,0.1,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2015,2015,million No,0.1,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2016,2016,million No,0.1,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2017,2017,million No,0.1,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2018,2018,million No,0.1,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2019,2019,million No,0.1,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2020,2020,million No,0.1,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2021,2021,million No,0.1,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,210410,Number of children under 5 years of age who are overweight (modeled estimates) (million),6132,Value,2022,2022,million No,0.1,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2000,2000,%,17.8,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2001,2001,%,18.2,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2002,2002,%,18.6,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2003,2003,%,19,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2004,2004,%,19.3,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2005,2005,%,19.6,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2006,2006,%,19.9,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2007,2007,%,20.1,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2008,2008,%,20.3,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2009,2009,%,20.4,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2010,2010,%,20.4,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2011,2011,%,20.5,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2012,2012,%,20.5,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2013,2013,%,20.4,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2014,2014,%,20.4,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2015,2015,%,20.4,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2016,2016,%,20.4,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2017,2017,%,20.4,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2018,2018,%,20.4,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2019,2019,%,20.4,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2020,2020,%,20.4,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2021,2021,%,20.4,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21042,Prevalence of obesity in the adult population (18 years and older) (percent),6121,Value,2022,2022,%,20.4,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2000,2000,million No,11.8,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2001,2001,million No,12.1,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2002,2002,million No,12.3,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2003,2003,million No,12.6,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2004,2004,million No,12.9,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2005,2005,million No,13.1,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2006,2006,million No,13.3,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2007,2007,million No,13.5,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2008,2008,million No,13.6,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2009,2009,million No,13.7,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2010,2010,million No,13.8,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2011,2011,million No,13.9,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2012,2012,million No,13.9,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2013,2013,million No,14,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2014,2014,million No,14,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2015,2015,million No,14,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2016,2016,million No,14.1,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2017,2017,million No,14.1,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2018,2018,million No,14.1,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2019,2019,million No,14.1,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2020,2020,million No,14.2,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2021,2021,million No,14.2,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,210420,Number of obese adults (18 years and older) (million),6132,Value,2022,2022,million No,14.2,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2000,2000,%,9.9,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2001,2001,%,9.7,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2002,2002,%,9.7,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2003,2003,%,9.6,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2004,2004,%,9.5,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2005,2005,%,9.5,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2006,2006,%,9.5,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2007,2007,%,9.4,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2008,2008,%,9.4,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2009,2009,%,9.4,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2010,2010,%,9.4,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2011,2011,%,9.5,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2012,2012,%,9.6,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2013,2013,%,9.7,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2014,2014,%,10,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2015,2015,%,10.2,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2016,2016,%,10.5,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2017,2017,%,10.9,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2018,2018,%,11.3,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21043,Prevalence of anemia among women of reproductive age (15-49 years) (percent),6121,Value,2019,2019,%,11.7,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2000,2000,million No,1.9,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2001,2001,million No,1.9,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2002,2002,million No,1.9,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2003,2003,million No,1.9,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2004,2004,million No,1.8,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2005,2005,million No,1.8,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2006,2006,million No,1.8,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2007,2007,million No,1.8,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2008,2008,million No,1.8,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2009,2009,million No,1.7,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2010,2010,million No,1.7,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2011,2011,million No,1.7,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2012,2012,million No,1.7,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2013,2013,million No,1.7,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2014,2014,million No,1.8,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2015,2015,million No,1.8,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2016,2016,million No,1.8,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2017,2017,million No,1.9,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2018,2018,million No,1.9,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210430,Number of women of reproductive age (15-49 years) affected by anemia (million),6132,Value,2019,2019,million No,2,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2000,2000,%,,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2001,2001,%,,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2002,2002,%,,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2003,2003,%,,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2004,2004,%,,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2005,2005,%,,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2006,2006,%,,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2007,2007,%,,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2008,2008,%,,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2009,2009,%,,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2010,2010,%,,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2011,2011,%,,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2012,2012,%,,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2013,2013,%,,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2014,2014,%,,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2015,2015,%,,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2016,2016,%,,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2017,2017,%,,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2018,2018,%,,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2019,2019,%,,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2020,2020,%,,X,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2021,2021,%,,X,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21044,Prevalence of exclusive breastfeeding among infants 0-5 months of age (percent),6121,Value,2022,2022,%,,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2000,2000,%,6.8,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2001,2001,%,6.8,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2002,2002,%,6.8,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2003,2003,%,6.8,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2004,2004,%,6.8,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2005,2005,%,6.8,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2006,2006,%,6.8,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2007,2007,%,6.8,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2008,2008,%,6.8,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2009,2009,%,6.8,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2010,2010,%,6.9,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2011,2011,%,6.9,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2012,2012,%,6.9,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2013,2013,%,6.9,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2014,2014,%,6.8,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2015,2015,%,6.8,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2016,2016,%,6.8,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2017,2017,%,6.8,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2018,2018,%,6.7,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2019,2019,%,6.7,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21049,Prevalence of low birthweight (percent),6121,Value,2020,2020,%,6.7,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2000,2000,million No,0.1,X,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2001,2001,million No,<0.1,X,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2002,2002,million No,<0.1,X,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2003,2003,million No,<0.1,X,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2004,2004,million No,<0.1,X,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2005,2005,million No,<0.1,X,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2006,2006,million No,<0.1,X,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2007,2007,million No,<0.1,X,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2008,2008,million No,<0.1,X,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2009,2009,million No,<0.1,X,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2010,2010,million No,<0.1,X,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2011,2011,million No,<0.1,X,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2012,2012,million No,<0.1,X,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2013,2013,million No,<0.1,X,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2014,2014,million No,<0.1,X,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2015,2015,million No,0.1,X,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2016,2016,million No,0.1,X,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2017,2017,million No,0.1,X,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2018,2018,million No,0.1,X,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2019,2019,million No,0.1,X,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,210490,Number of newborns with low birthweight (million),6132,Value,2020,2020,million No,0.1,X,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,1957,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,1957,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,1957,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,1959,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,1959,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,1961,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,1963,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,1964,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,1964,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,1965,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,1965,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,1965,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,1965,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,1965,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,1964,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,1962,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,1960,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,1958,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,1955,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,1953,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,1951,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,1949,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,1947,E,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,21056,Minimum dietary energy requirement  (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,1946,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2000,2000,kcal/cap/d,2542,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2001,2001,kcal/cap/d,2542,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2002,2002,kcal/cap/d,2543,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2003,2003,kcal/cap/d,2545,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2004,2004,kcal/cap/d,2546,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2005,2005,kcal/cap/d,2548,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2006,2006,kcal/cap/d,2551,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2007,2007,kcal/cap/d,2553,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2008,2008,kcal/cap/d,2554,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2009,2009,kcal/cap/d,2555,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2010,2010,kcal/cap/d,2555,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2011,2011,kcal/cap/d,2556,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2012,2012,kcal/cap/d,2556,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2013,2013,kcal/cap/d,2555,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2014,2014,kcal/cap/d,2554,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2015,2015,kcal/cap/d,2553,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2016,2016,kcal/cap/d,2550,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2017,2017,kcal/cap/d,2546,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2018,2018,kcal/cap/d,2543,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2019,2019,kcal/cap/d,2540,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2020,2020,kcal/cap/d,2537,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2021,2021,kcal/cap/d,2534,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2022,2022,kcal/cap/d,2531,E,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,21057,Average dietary energy requirement (kcal/cap/day),6128,Value,2023,2023,kcal/cap/d,2529,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2000,2000,No,0.2,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2001,2001,No,0.2,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2002,2002,No,0.2,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2003,2003,No,0.2,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2004,2004,No,0.2,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2005,2005,No,0.2,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2006,2006,No,0.2,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2007,2007,No,0.2,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2008,2008,No,0.2,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2009,2009,No,0.2,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2010,2010,No,0.2,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2011,2011,No,0.2,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2012,2012,No,0.2,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2013,2013,No,0.2,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2014,2014,No,0.2,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2015,2015,No,0.2,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2016,2016,No,0.2,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2017,2017,No,0.2,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2018,2018,No,0.2,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2019,2019,No,0.2,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2020,2020,No,0.2,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2021,2021,No,0.21,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2022,2022,No,0.21,E,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,21058,Coefficient of variation of habitual caloric consumption distribution (real number),6173,Value,2023,2023,No,0.21,E,
+DEU,2000-01-01,2000-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2000,2000,%,1.95,E,
+DEU,2001-01-01,2001-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2001,2001,%,1.88,E,
+DEU,2002-01-01,2002-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2002,2002,%,1.88,E,
+DEU,2003-01-01,2003-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2003,2003,%,1.87,E,
+DEU,2004-01-01,2004-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2004,2004,%,1.87,E,
+DEU,2005-01-01,2005-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2005,2005,%,1.81,E,
+DEU,2006-01-01,2006-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2006,2006,%,1.81,E,
+DEU,2007-01-01,2007-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2007,2007,%,1.83,E,
+DEU,2008-01-01,2008-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2008,2008,%,1.81,E,
+DEU,2009-01-01,2009-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2009,2009,%,1.82,E,
+DEU,2010-01-01,2010-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2010,2010,%,1.77,E,
+DEU,2011-01-01,2011-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2011,2011,%,1.8,E,
+DEU,2012-01-01,2012-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2012,2012,%,1.8,E,
+DEU,2013-01-01,2013-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2013,2013,%,1.78,E,
+DEU,2014-01-01,2014-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2014,2014,%,1.79,E,
+DEU,2015-01-01,2015-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2015,2015,%,1.82,E,
+DEU,2016-01-01,2016-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2016,2016,%,1.82,E,
+DEU,2017-01-01,2017-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2017,2017,%,1.8,E,
+DEU,2018-01-01,2018-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2018,2018,%,1.79,E,
+DEU,2019-01-01,2019-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2019,2019,%,1.75,E,
+DEU,2020-01-01,2020-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2020,2020,%,1.75,E,
+DEU,2021-01-01,2021-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2021,2021,%,1.73,E,
+DEU,2022-01-01,2022-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2022,2022,%,1.73,E,
+DEU,2023-01-01,2023-12-31,79,'276,Germany,21059,Incidence of caloric losses at retail distribution level (percent),6121,Value,2023,2023,%,1.73,E,
+DEU,2000-01-01,2002-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20002002,2002,g/cap/d,139.7,E,
+DEU,2001-01-01,2003-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20012003,2003,g/cap/d,138.5,E,
+DEU,2002-01-01,2004-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20022004,2004,g/cap/d,138.9,E,
+DEU,2003-01-01,2005-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20032005,2005,g/cap/d,138.9,E,
+DEU,2004-01-01,2006-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20042006,2006,g/cap/d,139.4,E,
+DEU,2005-01-01,2007-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20052007,2007,g/cap/d,141.9,E,
+DEU,2006-01-01,2008-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20062008,2008,g/cap/d,143.6,E,
+DEU,2007-01-01,2009-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20072009,2009,g/cap/d,144.3,E,
+DEU,2014-01-01,2016-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20142016,2016,g/cap/d,145,E,
+DEU,2015-01-01,2017-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20152017,2017,g/cap/d,146.5,E,
+DEU,2016-01-01,2018-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20162018,2018,g/cap/d,149.4,E,
+DEU,2017-01-01,2019-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20172019,2019,g/cap/d,155.9,E,
+DEU,2018-01-01,2020-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20182020,2020,g/cap/d,162.6,E,
+DEU,2019-01-01,2021-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20192021,2021,g/cap/d,166.4,E,
+DEU,2020-01-01,2022-12-31,79,'276,Germany,21061,Average fat supply (g/cap/day) (3-year average),6123,Value,20202022,2022,g/cap/d,166.1,E,
